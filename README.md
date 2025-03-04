@@ -20,6 +20,7 @@ A compendium of tech courses and tech reading that I am doing.
 # Embedded Systems
 
 # Encryption
+* Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ 
 
 # Ethical Hacking
 
