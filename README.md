@@ -52,6 +52,7 @@ A compendium of tech courses and tech reading that I am doing.
 # Social Media
 
 # System Design
+* Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design 
 
 # Tools
 
