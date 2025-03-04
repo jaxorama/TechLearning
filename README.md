@@ -1,5 +1,57 @@
 # Tech Learning
-A compendium of tech courses that I am doing
+A compendium of tech courses and tech reading that I am doing. 
 
 # AI
-* [AI Engineering Masterclass (Udemy) by Vivian Aranha]([url](https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero/?couponCode=ST10MT30325G2))
+* AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
+
+# Business
+
+# Cloud Computing
+
+# Databases
+
+# Data Center
+* Data Center IT Infrastructure : The Complete IT Fundamentals - https://www.udemy.com/course/data-center-design-it-infrastructure-it-fundamentals/
+
+# Data Science
+
+# Data Structures & Algorithms
+
+# Embedded Systems
+
+# Encryption
+
+# Ethical Hacking
+
+# Game Programming
+
+# Linux
+
+# Networking
+
+# Operating Systems
+
+# Programming
+- C
+- C++
+- CSS
+- Golang
+- HTML
+- Javascript
+- Python
+
+# Product Management
+
+# Project Management
+
+# REST API
+
+# Security
+
+# Social Media
+
+# System Design
+
+# Tools
+
+
