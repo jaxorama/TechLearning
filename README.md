@@ -4,6 +4,9 @@ A compendium of tech courses and tech reading that I am doing.
 # AI
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 
+## Gen AI
+* CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆)
+
 # Business
 
 # Cloud Computing
