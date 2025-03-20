@@ -2,7 +2,7 @@
 A compendium of tech courses and tech reading that I am doing. 
 
 # AI
-* AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/
+* AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/ (Completed 03/20/2025 ★★★★★ - Introduction to key concepts only. No hands-on)
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 
 ## Gen AI
