@@ -8,6 +8,9 @@ A compendium of tech courses and tech reading that I am doing.
 ## Gen AI
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
 
+# Architecture
+* First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
+* 
 # Business
 
 # Cloud Computing
