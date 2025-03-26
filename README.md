@@ -58,7 +58,9 @@ A compendium of tech courses and tech reading that I am doing.
 # Security
 
 # Social Media
-
+# Software Development 
+* Software Development Excellence - https://www.udemy.com/course/software-development-engineering-excellence-master-course/ (Completed 03/26/2025 - ★★★★☆ - Great course with case studies on what successful companies do to excel in software development. This is not a course in software architecture like the title implies)
+* 
 # System Design
 * Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design 
 
