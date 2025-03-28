@@ -52,6 +52,9 @@ A compendium of tech courses and tech reading that I am doing.
 
 # Project Management
 
+# Protocols
+* PCI Express
+
 # REST API
 - HTTP Deep Dive - https://www.udemy.com/course/http-deep-dive/ (Completed: 03/23/2025 - ★★★☆☆ - Pretty basic course on HTTP)
 
