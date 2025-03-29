@@ -30,6 +30,7 @@ A compendium of tech courses and tech reading that I am doing.
 * Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ (Completed 3/4/2025. Rating ★★★☆☆)
 
 # Ethical Hacking
+- https://onebytelabs.in/account/home/my_courses 
 
 # Game Programming
 
