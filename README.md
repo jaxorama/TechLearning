@@ -26,11 +26,15 @@ A compendium of tech courses and tech reading that I am doing.
 
 # Embedded Systems
 
+# Embedded Firmware Security
+- Engineering Secure Devices - https://amzn.in/d/as7WTug (Completed 04/14/2025 - ★★★★☆) - Covers concepts such as device identity, secure boot, firmware update, secure communication etc. Easy to read) 
+
 # Encryption
 * Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ (Completed 3/4/2025. Rating ★★★☆☆)
 
 # Ethical Hacking
-- https://onebytelabs.in/account/home/my_courses 
+- https://onebytelabs.in/account/home/my_courses
+
 
 # Game Programming
 
@@ -58,6 +62,7 @@ A compendium of tech courses and tech reading that I am doing.
 
 # REST API
 - HTTP Deep Dive - https://www.udemy.com/course/http-deep-dive/ (Completed: 03/23/2025 - ★★★☆☆ - Pretty basic course on HTTP)
+- Secure RESTful APIs (https://amzn.in/d/2TW1DAp) (Completed: 04/14/2025 - ★★★☆☆ - Basic intro to REST API security. Examples in Java for JWT usage)  
 
 # Security
 
