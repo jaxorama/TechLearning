@@ -3,11 +3,15 @@ A compendium of tech courses and tech reading that I am doing.
 
 # AI
 * AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/ (Completed 03/20/2025 ★★★★★ - Introduction to key concepts only. No hands-on)
+* AI for Professionals - https://www.udemy.com/course/skilltechclub-ai-for-professionals/ (Completed 04/21/2025 ★★★☆☆ - Quick introduction to AI. Very basic though)
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 
-## Gen AI
+## AI - GenAI
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
 
+## AI - Prompt Engineering
+* Master Prompt Engineering - https://www.udemy.com/course/master-prompt-engineering-for-generative-ai-course/ (Completed 04/21/2025) (★☆☆☆☆ - Very basic. Poor audio)
+*  
 # Architecture
 * First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
 * 
@@ -59,6 +63,9 @@ A compendium of tech courses and tech reading that I am doing.
 
 # Protocols
 * PCI Express
+
+# Python
+* Running Python Anywhere - https://www.udemy.com/course/how-to-run-your-python-code-online-247-free-always-on/ - https://www.pythonanywhere.com/
 
 # REST API
 - HTTP Deep Dive - https://www.udemy.com/course/http-deep-dive/ (Completed: 03/23/2025 - ★★★☆☆ - Pretty basic course on HTTP)
