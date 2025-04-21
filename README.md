@@ -26,6 +26,11 @@ A compendium of tech courses and tech reading that I am doing.
 * First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
 * 
 # Business
+* The NVIDIA Way - https://www.amazon.com/Nvidia-Way-Jensen-Huang-Making/dp/1324086718 (Completed 04/15/2025 ★★★★☆ - The story of how NVIDIA came to be such a phenomenon)
+
+# Career Building
+* Build a Career in Emerging Technologies - https://www.udemy.com/course/emerging-technologies-career-guide/
+* Build a Career in AI, ML, Data Science - https://www.udemy.com/course/ai-ml-data-science-career-guide/
 
 # Cloud Computing
 
