@@ -58,7 +58,9 @@ A compendium of tech courses and tech reading that I am doing.
 # Game Programming
 
 # Linux
-
+## Linux System Programming
+* Linux Inter Process Communication (IPC) from Scratch in C - https://www.udemy.com/course/linuxipc/ (★★★★★ - The best course there is for learning IPC)
+* 
 # Networking
 
 # Operating Systems
