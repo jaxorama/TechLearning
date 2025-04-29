@@ -9,7 +9,8 @@ A compendium of tech courses and tech reading that I am doing.
 
 ## AI - Agents
 * Build an AI No Code Agent (https://www.udemy.com/course/build-an-ai-agent-with-a-no-code-ai-agent-tool/) (Completed 04/21/2025 - ★★☆☆☆ - Terribly put together course. Introduces customgpt.ai. I built an agent for Redfish - https://ajaysrbqr7.customgpt-agents.com/ using publicly available Redfish documents.
-* AI Chatbot Architectuere for Developers by Sebastian Schlaak (https://www.udemy.com/course/next-gen-ai-chatbot-development-2025/) - 
+* AI Chatbot Architecture for Developers by Sebastian Schlaak (https://www.udemy.com/course/next-gen-ai-chatbot-development-2025/)
+* The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/) 
 
 ## AI - GenAI
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
