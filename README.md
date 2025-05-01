@@ -41,6 +41,7 @@ A compendium of tech courses and tech reading that I am doing.
 * Data Center IT Infrastructure : The Complete IT Fundamentals - https://www.udemy.com/course/data-center-design-it-infrastructure-it-fundamentals/
 
 # Data Science
+* Data Science - 2 Day Workshop - https://www.youtube.com/watch?v=cyd-jtrocT8 | https://www.youtube.com/watch?v=_cBzePmET6Y
 
 # Data Structures & Algorithms
 
