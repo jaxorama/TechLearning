@@ -1,6 +1,6 @@
 # Tech Learning
 A compendium of tech courses and tech reading that I am doing. 
-
+ 
 # AI 
 ## AI Basics
 * AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/ (Completed 03/20/2025 ★★★★★ - Introduction to key concepts only. No hands-on)
@@ -95,6 +95,9 @@ A compendium of tech courses and tech reading that I am doing.
 # Social Media
 # Software Development 
 * Software Development Excellence - https://www.udemy.com/course/software-development-engineering-excellence-master-course/ (Completed 03/26/2025 - ★★★★☆ - Great course with case studies on what successful companies do to excel in software development. This is not a course in software architecture like the title implies)
+
+# SQL
+* SQL for Newbies - (https://www.udemy.com/course/sql-for-newbies-hands-on-sql-with-industry-best-practices/) (Completed 05/03/2025 - ★★★★★ - Great intro to SQL statements, Aggregates, Joins, CTEs, Efficient pipelines)
 * 
 # System Design
 * Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design 
