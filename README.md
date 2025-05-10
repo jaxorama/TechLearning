@@ -10,12 +10,16 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - Agents
 * Build an AI No Code Agent (https://www.udemy.com/course/build-an-ai-agent-with-a-no-code-ai-agent-tool/) (Completed 04/21/2025 - ★★☆☆☆ - Terribly put together course. Introduces customgpt.ai. I built an agent for Redfish - https://ajaysrbqr7.customgpt-agents.com/ using publicly available Redfish documents.
 * AI Chatbot Architecture for Developers by Sebastian Schlaak (https://www.udemy.com/course/next-gen-ai-chatbot-development-2025/)
-* The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/) 
+* The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
+## AI - Automation
+* Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
+
 ## AI - Edge 
-* Edge AI for IOT Developers Nanodegree on Udacity -
+* Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html 
 
 ## AI - GenAI
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
+* What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
 
 ## AI - LLMs
 * Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
