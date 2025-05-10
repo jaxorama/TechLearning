@@ -15,7 +15,10 @@ A compendium of tech courses and tech reading that I am doing.
 * Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
 
 ## AI - Edge 
-* Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html 
+* Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
+
+## AI - Ethics
+* https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai (Completed 05/10/2025 ★☆☆☆☆ - Gotta hate all these LinkedIn learning robotic sounding slideshows read out by suited-up men on big budgets and tight schedules)
 
 ## AI - GenAI
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
