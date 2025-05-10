@@ -104,4 +104,7 @@ A compendium of tech courses and tech reading that I am doing.
 
 # Tools
 
+# Web
+* Full stack development overview - https://www.techworld-with-nana.com/it-beginners-course (Completed 05/10/2025 ★★★★★ - Great course by Nana. Gives an overview of frontend, backend, database along with Agile, Release management)
+
 
