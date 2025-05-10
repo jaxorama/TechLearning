@@ -11,6 +11,8 @@ A compendium of tech courses and tech reading that I am doing.
 * Build an AI No Code Agent (https://www.udemy.com/course/build-an-ai-agent-with-a-no-code-ai-agent-tool/) (Completed 04/21/2025 - ★★☆☆☆ - Terribly put together course. Introduces customgpt.ai. I built an agent for Redfish - https://ajaysrbqr7.customgpt-agents.com/ using publicly available Redfish documents.
 * AI Chatbot Architecture for Developers by Sebastian Schlaak (https://www.udemy.com/course/next-gen-ai-chatbot-development-2025/)
 * The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/) 
+## AI - Edge 
+* Edge AI for IOT Developers Nanodegree on Udacity -
 
 ## AI - GenAI
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
@@ -18,11 +20,13 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - LLMs
 * Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
 * OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
-* 
+
+# AI - Microsoft Copilot
+* LinkedIn Learning - Microsoft Copilot Studio (
 
 ## AI - Prompt Engineering
 * Master Prompt Engineering - https://www.udemy.com/course/master-prompt-engineering-for-generative-ai-course/ (Completed 04/21/2025) (★☆☆☆☆ - Very basic. Poor audio)
-*  
+
 # Architecture
 * First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
 * 
@@ -44,6 +48,9 @@ A compendium of tech courses and tech reading that I am doing.
 * Data Science - 2 Day Workshop - https://www.youtube.com/watch?v=cyd-jtrocT8 | https://www.youtube.com/watch?v=_cBzePmET6Y
 
 # Data Structures & Algorithms
+
+# DevOps
+* DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp 
 
 # Embedded Systems
 
