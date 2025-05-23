@@ -35,6 +35,9 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - Prompt Engineering
 * Master Prompt Engineering - https://www.udemy.com/course/master-prompt-engineering-for-generative-ai-course/ (Completed 04/21/2025) (★☆☆☆☆ - Very basic. Poor audio)
 
+## AI - RAG
+* RAG Strategy and Execution - https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/ (Completed 05/23/2025) (★★★★☆ - I was able to quickly understand RAG. I wish there was some information on how to implement RAG in the team)
+
 # Architecture
 * First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
 * 
