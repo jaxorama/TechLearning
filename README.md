@@ -8,9 +8,14 @@ A compendium of tech courses and tech reading that I am doing.
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 
 ## AI - Agents
+* AI Agents Crash Course - https://www.udemy.com/course/ai-crash-course/
+* AI Agents - The future of work - https://www.udemy.com/course/ai-agents-the-future-of-work-for-leaders-and-manager/
 * Build an AI No Code Agent (https://www.udemy.com/course/build-an-ai-agent-with-a-no-code-ai-agent-tool/) (Completed 04/21/2025 - ★★☆☆☆ - Terribly put together course. Introduces customgpt.ai. I built an agent for Redfish - https://ajaysrbqr7.customgpt-agents.com/ using publicly available Redfish documents.
 * AI Chatbot Architecture for Developers by Sebastian Schlaak (https://www.udemy.com/course/next-gen-ai-chatbot-development-2025/)
 * The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
+* AI Agents - Build an Army of Digital Agents - https://www.udemy.com/course/ai-agents-course/
+* Master AI Agents from Scratch - https://www.udemy.com/course/building-a-conversational-ui-with-ai-agents-from-scratch/
+
 ## AI - Automation
 * Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
 
@@ -49,7 +54,8 @@ A compendium of tech courses and tech reading that I am doing.
 * Build a Career in AI, ML, Data Science - https://www.udemy.com/course/ai-ml-data-science-career-guide/
 
 # Cloud Computing
-
+* Cloud Computing for Beginners - https://www.udemy.com/course/cloud-computing-for-beginners-course/
+* 
 # Databases
 
 # Data Center
@@ -66,8 +72,9 @@ A compendium of tech courses and tech reading that I am doing.
 # Embedded Systems
 
 # Embedded Firmware Security
-- Engineering Secure Devices - https://amzn.in/d/as7WTug (Completed 04/14/2025 - ★★★★☆) - Covers concepts such as device identity, secure boot, firmware update, secure communication etc. Easy to read) 
-
+- Engineering Secure Devices - https://amzn.in/d/as7WTug (Completed 04/14/2025 - ★★★★☆) - Covers concepts such as device identity, secure boot, firmware update, secure communication etc. Easy to read)
+- Embedded Systems Hardware Penetration Testing - https://www.udemy.com/course/embeddedsystemshardwarepenetesting/
+  
 # Encryption
 * Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ (Completed 3/4/2025. Rating ★★★☆☆)
 
@@ -109,6 +116,8 @@ A compendium of tech courses and tech reading that I am doing.
 - Secure RESTful APIs (https://amzn.in/d/2TW1DAp) (Completed: 04/14/2025 - ★★★☆☆ - Basic intro to REST API security. Examples in Java for JWT usage)  
 
 # Security
+* Practical Security Architecture - https://www.udemy.com/course/practical-security-architecture-hands-on/
+* 
 
 # Social Media
 # Software Development 
