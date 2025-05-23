@@ -115,7 +115,8 @@ A compendium of tech courses and tech reading that I am doing.
 * SQL for Newbies - (https://www.udemy.com/course/sql-for-newbies-hands-on-sql-with-industry-best-practices/) (Completed 05/03/2025 - ★★★★★ - Great intro to SQL statements, Aggregates, Joins, CTEs, Efficient pipelines)
 * 
 # System Design
-* Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design 
+* Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design
+* Learning Cloud Architecture - Practical Design - https://www.udemy.com/course/design-architecture/
 
 # Tools
 
