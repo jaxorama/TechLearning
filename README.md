@@ -29,7 +29,7 @@ A compendium of tech courses and tech reading that I am doing.
 * Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
 * OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
 
-# AI - Microsoft Copilot
+## AI - Microsoft Copilot
 * LinkedIn Learning - Microsoft Copilot Studio (
 
 ## AI - Prompt Engineering
