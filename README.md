@@ -16,6 +16,7 @@ A compendium of tech courses and tech reading that I am doing.
 
 ## AI - Edge 
 * Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
+* Build On-Device AI - https://www.udemy.com/course/build-on-device-ai/ (In progress 05/23/2025 - ★★★☆☆ - Starts out nice and easy explaining how to use Qualcomm AI hub to build AI on edge devices. Suddenly jumps into obscure code without any explanation. Need to revisit later) 
 
 ## AI - Ethics
 * https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai (Completed 05/10/2025 ★☆☆☆☆ - Gotta hate all these LinkedIn learning robotic sounding slideshows read out by suited-up men on big budgets and tight schedules)
