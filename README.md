@@ -33,7 +33,8 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - LLMs
 * Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
 * OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
-
+* Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
+  
 ## AI - Microsoft Copilot
 * LinkedIn Learning - Microsoft Copilot Studio (
 
