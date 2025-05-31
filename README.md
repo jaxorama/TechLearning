@@ -3,6 +3,7 @@ A compendium of tech courses and tech reading that I am doing.
  
 # AI 
 ## AI Basics
+* AI for Everyone by Andrew Ng - https://www.coursera.org/learn/ai-for-everyone 
 * AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/ (Completed 03/20/2025 ★★★★★ - Introduction to key concepts only. No hands-on)
 * AI for Professionals - https://www.udemy.com/course/skilltechclub-ai-for-professionals/ (Completed 04/21/2025 ★★★☆☆ - Quick introduction to AI. Very basic though)
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
@@ -27,6 +28,7 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai (Completed 05/10/2025 ★☆☆☆☆ - Gotta hate all these LinkedIn learning robotic sounding slideshows read out by suited-up men on big budgets and tight schedules)
 
 ## AI - GenAI
+* Generative AI for Everyone by Andrew Ng - https://www.coursera.org/learn/generative-ai-for-everyone
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
 * What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
 
