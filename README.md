@@ -3,6 +3,7 @@ A compendium of tech courses and tech reading that I am doing.
  
 # AI 
 ## AI Basics
+* How to build a career in AI by Andrew Ng (Book) - https://info.deeplearning.ai/how-to-build-a-career-in-ai-book (Completed 05/31/2025 - Very generic, very high level intro)
 * AI for Everyone by Andrew Ng - https://www.coursera.org/learn/ai-for-everyone 
 * AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/ (Completed 03/20/2025 ★★★★★ - Introduction to key concepts only. No hands-on)
 * AI for Professionals - https://www.udemy.com/course/skilltechclub-ai-for-professionals/ (Completed 04/21/2025 ★★★☆☆ - Quick introduction to AI. Very basic though)
