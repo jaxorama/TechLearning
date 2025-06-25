@@ -138,6 +138,14 @@ A compendium of tech courses and tech reading that I am doing.
 # Tools
 
 # Web
+* Web Basics
+* Web Basics - https://www.udemy.com/course/web-basics/ (Completed 6/25/2025 - Some good basics for the absolute newbie)
+* 
+* 
 * Full stack development overview - https://www.techworld-with-nana.com/it-beginners-course (Completed 05/10/2025 ★★★★★ - Great course by Nana. Gives an overview of frontend, backend, database along with Agile, Release management)
+
+# Website 
+* How to build a website? - https://www.udemy.com/course/draft/2485902/ (Completed 6/25/2025 - Basic using Wix)
+* How to use ChatGPT to build your portfolio website - https://www.udemy.com/course/build-your-personal-website-using-chatgpt/ (Completed 06/25/2025)
 
 
