@@ -170,7 +170,12 @@ A compendium of tech courses and tech reading that I am doing.
 * PCI Express
 
 # Python
-* Running Python Anywhere - https://www.udemy.com/course/how-to-run-your-python-code-online-247-free-always-on/ -  (Completed 04/21/2025 - ★★★☆☆ - https://www.pythonanywhere.com/ is Good for running console apps, scheduled apps, notebooks, web apps, MYSQL and hosting files. However, paid for web apps etc. The course is useful, but too long for basic information) 
+* Running Python Anywhere - https://www.udemy.com/course/how-to-run-your-python-code-online-247-free-always-on/ -  (Completed 04/21/2025 - ★★★☆☆ - https://www.pythonanywhere.com/ is Good for running console apps, scheduled apps, notebooks, web apps, MYSQL and hosting files. However, paid for web apps etc. The course is useful, but too long for basic information)
+
+# Quantum Computing
+* https://www.udemy.com/course/quantum-computing-kitchen/
+* https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/
+* https://www.udemy.com/course/quantum-computing-for-decision-makers-executive-essentials/
 
 # REST API
 - HTTP Deep Dive - https://www.udemy.com/course/http-deep-dive/ (Completed: 03/23/2025 - ★★★☆☆ - Pretty basic course on HTTP)
