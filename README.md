@@ -46,6 +46,24 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - Microsoft Copilot
 * LinkedIn Learning - Microsoft Copilot Studio (
 
+## AI - Art - Music
+* AI Music Creation - https://www.udemy.com/course/draft/1724702/
+* Compose Music with AI - https://www.udemy.com/course/draft/6031906/
+* Create stories, music and art with AI - https://www.udemy.com/course/creating-interesting-comics-using-artificial-intelligence/
+## AI - Art - Image Generation & Editing
+* AI Image & Video Editing for Beginners - https://www.udemy.com/course/ai-image-and-video-editing-for-complete-beginners/
+* AI Image & Video Generation for Beginners - https://www.udemy.com/course/ai-for-absolute-beginners-productivity-machine/
+* Generate Images in Google Colab - https://www.udemy.com/course/genai-for-everyone-generate-images-for-free-google-colab/
+* Master AI Image Generation - https://www.udemy.com/course/master-ai-image-generation-create-stunning-images-with-free/?couponCode=MT300725A
+* Design Stunning Images in Bing AI and MS Designer - https://www.udemy.com/course/design-stunning-images-in-15-minutes-bing-ai-ms-designer/
+* Sell AI Images Online - https://www.udemy.com/course/sell-stock-photography-footage-ai-images-beginner-course/
+* Text to Image AI Art - https://www.udemy.com/course/text-to-image-ai-art-generators-masterclass/
+* Midjourney and ChatGPT for Image Generation - https://www.udemy.com/course/midjourney-images/
+* Midjourney for Architects - https://www.udemy.com/course/midjourney-for-architects-2025-project-based-ai-design-a-z/
+* Portrait Photography Masterclass in Midjourney - https://www.udemy.com/course/portrait-photography-masterclass-in-midjourney-v5-ai-chatgpt/
+* 
+
+
 ## AI - Prompt Engineering
 * Master Prompt Engineering - https://www.udemy.com/course/master-prompt-engineering-for-generative-ai-course/ (Completed 04/21/2025) (★☆☆☆☆ - Very basic. Poor audio)
 
