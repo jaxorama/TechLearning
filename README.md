@@ -10,6 +10,7 @@ A compendium of tech courses and tech reading that I am doing.
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 
 ## AI - Agents
+* Agentic AI Mastery - https://www.udemy.com/course/agentic-ai-mastery/
 * AI Agents Crash Course - https://www.udemy.com/course/ai-crash-course/
 * AI Agents - The future of work - https://www.udemy.com/course/ai-agents-the-future-of-work-for-leaders-and-manager/
 * Build an AI No Code Agent (https://www.udemy.com/course/build-an-ai-agent-with-a-no-code-ai-agent-tool/) (Completed 04/21/2025 - ★★☆☆☆ - Terribly put together course. Introduces customgpt.ai. I built an agent for Redfish - https://ajaysrbqr7.customgpt-agents.com/ using publicly available Redfish documents.
@@ -17,6 +18,10 @@ A compendium of tech courses and tech reading that I am doing.
 * The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
 * AI Agents - Build an Army of Digital Agents - https://www.udemy.com/course/ai-agents-course/
 * Master AI Agents from Scratch - https://www.udemy.com/course/building-a-conversational-ui-with-ai-agents-from-scratch/
+
+## AI - Building Applications
+* Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
+* AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
 
 ## AI - Automation
 * Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
@@ -37,7 +42,6 @@ A compendium of tech courses and tech reading that I am doing.
 * AI Engineering Course by Gaurav Sen - https://interviewready.io/learn/ai-engineering (Started 06/04/2025)
 * Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
 * OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
-* Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
   
 ## AI - Microsoft Copilot
 * LinkedIn Learning - Microsoft Copilot Studio (
