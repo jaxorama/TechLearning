@@ -25,6 +25,11 @@ A compendium of tech courses and tech reading that I am doing.
 
 ## AI - Automation
 * Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
+* n8n
+* https://www.udemy.com/course/mastering-ai-workflow-automation-with-n8n-from-zero-to-pro/
+* https://www.udemy.com/course/build-ai-agents-with-n8n-free-hands-on-training/
+* https://www.udemy.com/course/master-n8n-ai-agents-build-sell-ai-agents-and-automations/
+* https://www.udemy.com/course/n8n-automation-mastery-build-custom-n8n-automation-workflows/
 
 ## AI - Edge 
 * Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
@@ -71,6 +76,8 @@ A compendium of tech courses and tech reading that I am doing.
 * Full AI course - Midjourney, Firefly - https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/
 * AI masterclass - Midjourney - https://www.udemy.com/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/
 * Full AI course - https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/
+* Dall-E Artistry - https://www.udemy.com/course/mastering-dalle-artistry-ai-creative-revolution/
+* Dall-E, Gemini - https://www.udemy.com/course/all-in-one-ai-course-chatgpt-perplexity-claude-gemini/
 
 
 ## AI - Prompt Engineering
@@ -79,6 +86,10 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - RAG
 * RAG Strategy and Execution - https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/ (Completed 05/23/2025) (★★★★☆ - I was able to quickly understand RAG. I wish there was some information on how to implement RAG in the team)
 
+## AI - Research
+* Perplexity - https://www.udemy.com/course/automation-with-perplexity/
+* Perplexity - https://www.udemy.com/course/perplexity-ai-research-creativity/
+  
 ## AI - Startups
 * From Developer to ML Entrepreneur (Sramana Mitra) - https://www.udemy.com/course/developertomlentrepreneurcasestudy/
 * AI ML Startup (Sramana Mitra) - https://www.udemy.com/course/artificialintelligencemlstartupcasestudy/
