@@ -18,6 +18,13 @@ A compendium of tech courses and tech reading that I am doing.
 * The Complete Agentic AI Engineering Course by Ed Donner (https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
 * AI Agents - Build an Army of Digital Agents - https://www.udemy.com/course/ai-agents-course/
 * Master AI Agents from Scratch - https://www.udemy.com/course/building-a-conversational-ui-with-ai-agents-from-scratch/
+* https://www.udemy.com/course/agentic-ai-playbook-for-tech-leaders/
+* https://www.udemy.com/course/aiml-foundations-for-absolute-beginners-agenticai-mlops/
+* https://www.udemy.com/course/mastering-agentic-ai-theory-and-implementation-masterclass/
+* https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/
+* https://www.udemy.com/course/building-effective-agentic-systems-with-generative-ai/
+* https://www.udemy.com/course/mastering-agentic-design-patterns/
+* https://www.udemy.com/course/agentic-design-patterns/
 
 ## AI - Building Applications
 * Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
