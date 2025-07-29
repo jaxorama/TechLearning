@@ -61,7 +61,16 @@ A compendium of tech courses and tech reading that I am doing.
 * Midjourney and ChatGPT for Image Generation - https://www.udemy.com/course/midjourney-images/
 * Midjourney for Architects - https://www.udemy.com/course/midjourney-for-architects-2025-project-based-ai-design-a-z/
 * Portrait Photography Masterclass in Midjourney - https://www.udemy.com/course/portrait-photography-masterclass-in-midjourney-v5-ai-chatgpt/
-* 
+* Midjourney, Dall-E, Firefly - https://www.udemy.com/course/chatgpt-midjourney-google-bard-dall-e-ai-course/
+* Midjourney Mastery - https://www.udemy.com/course/midjourney-mastery-unlock-your-creative-potential-with-ai/
+* Midjourney for Passive Income - https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/
+* Midjourney - Consistent character - https://www.udemy.com/course/midjourney-v5-ai-chatgpt-create-consistent-character/
+* Midjourney and Canva for Passive Income - https://www.udemy.com/course/draft/5223818/
+* Midjourney Mastery - https://www.udemy.com/course/midjourney-master-class-elevate-your-artistic-skills/
+* AI tools lab - https://www.udemy.com/course/ai-tools-labs-simplifying-chatgpt-midjourney-llms-genai/
+* Full AI course - Midjourney, Firefly - https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/
+* AI masterclass - Midjourney - https://www.udemy.com/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/
+* Full AI course - https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/
 
 
 ## AI - Prompt Engineering
