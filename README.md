@@ -63,7 +63,16 @@ https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
 * https://www.udemy.com/course/build-ai-agents-with-n8n-free-hands-on-training/
 * https://www.udemy.com/course/master-n8n-ai-agents-build-sell-ai-agents-and-automations/
 * https://www.udemy.com/course/n8n-automation-mastery-build-custom-n8n-automation-workflows/
-
+## AI - Computer Vision
+* https://www.udemy.com/course/mastering-opencv-a-practical-guide-to-computer-vision/
+* https://www.udemy.com/course/learn-computer-vision-python-image-automation-examples/
+* https://www.udemy.com/course/draft/5597256/
+* https://www.udemy.com/course/computer-vision-fundamentals/
+* https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/
+* https://www.udemy.com/course/computer-vision-with-python/
+* https://www.udemy.com/course/learn-computer-vision-for-beginners-part-2/
+* https://www.udemy.com/course/draft/6363923/
+* 
 ## AI - Edge 
 * Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
 * Build On-Device AI - https://www.udemy.com/course/build-on-device-ai/ (In progress 05/23/2025 - ★★★☆☆ - Starts out nice and easy explaining how to use Qualcomm AI hub to build AI on edge devices. Suddenly jumps into obscure code without any explanation. Need to revisit later)
