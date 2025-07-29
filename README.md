@@ -30,6 +30,32 @@ A compendium of tech courses and tech reading that I am doing.
 * Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
 * AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
 
+No Code
+* https://www.udemy.com/course/ai-saas-apps/
+* https://www.udemy.com/course/build-your-ai-saas-software-with-no-code-no-coding-needed/
+* https://www.udemy.com/course/build-ai-automation-agency-chatbots-genai-with-vectorshift/
+* https://www.udemy.com/course/build-professional-trading-bots-the-no-code-masterclass/
+* https://www.udemy.com/course/mastering-ai-agents-with-lyzr-agent-studio/
+* https://www.udemy.com/course/develop-ai-automations-course/
+* https://www.udemy.com/course/ai-chatbots/
+* https://www.udemy.com/course/no-code-ai-chatbot-mastery-build-your-own-in-one-hour/
+* https://www.udemy.com/course/no-code-machine-learning-with-qlik-automl/
+* https://www.udemy.com/course/draft/4584758/
+* https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/
+* https://www.udemy.com/course/draft/4204976/
+* https://www.udemy.com/course/no-code-machine-learning/
+* https://www.udemy.com/course/no-low-code-marketing-automation/
+* https://www.udemy.com/course/the-complete-course-for-ai-agent-with-no-code-tool-2025/
+* https://www.udemy.com/course/master-ai-voice-agents-automate-calls-with-ai-and-no-code/
+* https://www.udemy.com/course/partyrock/
+* https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/
+* https://www.udemy.com/course/ai-automation-course/
+* https://www.udemy.com/course/build-ai-call-assistants-ai-automation-agency-with-no-code/
+
+Vibe
+https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
+
+
 ## AI - Automation
 * Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
 * n8n
