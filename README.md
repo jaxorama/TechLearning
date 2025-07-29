@@ -51,7 +51,20 @@ No Code
 * https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/
 * https://www.udemy.com/course/ai-automation-course/
 * https://www.udemy.com/course/build-ai-call-assistants-ai-automation-agency-with-no-code/
-
+Llama
+* https://www.udemy.com/course/open-source-llms/
+* https://www.udemy.com/course/getting-started-with-gen-ai-langchain-llama3-ollama/
+* https://www.udemy.com/course/draft/5982012/
+* https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/
+* 
+Ollama
+* https://www.udemy.com/course/master-deepseek-llama-other-llms-with-openwebui-ollama/
+* https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
+* https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/
+* https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/
+* https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/
+* https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
+  
 Vibe
 https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
 
@@ -72,6 +85,7 @@ https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
 * https://www.udemy.com/course/computer-vision-with-python/
 * https://www.udemy.com/course/learn-computer-vision-for-beginners-part-2/
 * https://www.udemy.com/course/draft/6363923/
+* https://www.udemy.com/course/draft/3498426/
 * 
 ## AI - Edge 
 * Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
