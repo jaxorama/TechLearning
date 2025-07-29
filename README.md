@@ -96,6 +96,22 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - Research
 * Perplexity - https://www.udemy.com/course/automation-with-perplexity/
 * Perplexity - https://www.udemy.com/course/perplexity-ai-research-creativity/
+* 
+## AI - Security
+* https://www.udemy.com/course/genai-cybersecurity-owasp-top-10-mitre-atlas-api-attacks/
+* https://www.udemy.com/course/owasp-top-10-for-large-language-models/
+* https://www.udemy.com/course/owasp-top-10-for-llm-applications-2025-edition/
+* https://www.udemy.com/course/llm-pentesting-red-teaming/
+* https://www.udemy.com/course/ai-driven-soc-fundamentals-of-security-operations/
+* https://www.udemy.com/course/draft/6661281/
+* https://www.udemy.com/course/the-future-of-work-ai-analytics-cybersecurity-insights/
+* https://www.udemy.com/course/generative-ai-security-protecting-data-models-made-easy/
+* https://www.udemy.com/course/genai-cybersecurity-solutions-j/
+* https://www.udemy.com/course/ai-cyber-security-mastery/
+* https://www.udemy.com/course/draft/6322671/
+* https://www.udemy.com/course/cybersecurity-with-ai-genai/
+* https://www.udemy.com/course/cybersecurity-defense-with-genai/
+
   
 ## AI - Startups
 * From Developer to ML Entrepreneur (Sramana Mitra) - https://www.udemy.com/course/developertomlentrepreneurcasestudy/
