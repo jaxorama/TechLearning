@@ -67,6 +67,7 @@ Ollama
   
 Vibe
 https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
+https://www.udemy.com/course/cursor-ai-build-apps/
 
 
 ## AI - Automation
@@ -86,7 +87,23 @@ https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
 * https://www.udemy.com/course/learn-computer-vision-for-beginners-part-2/
 * https://www.udemy.com/course/draft/6363923/
 * https://www.udemy.com/course/draft/3498426/
-* 
+
+## AI - DeepSeek
+https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
+https://www.udemy.com/course/deepseek-zero-to-hero/
+https://www.udemy.com/course/ai-made-easy-a-complete-deepseek-zero-to-hero-masterclass/
+https://www.udemy.com/course/deepseek-ai-deepseek-generative-ai-complete-essentials/
+https://www.udemy.com/course/from-zero-to-ai-how-to-master-deepseek-ai-as-a-beginner/
+https://www.udemy.com/course/deepseek-mastery/
+https://www.udemy.com/course/deepseek-course-with-prompt-engineering-free-course/
+https://www.udemy.com/course/deepseek-r1-real-world-projects/
+https://www.udemy.com/course/mastering-deepseek-unlock-the-power-of-ai-powered-search/
+https://www.udemy.com/course/deepseek-ai-for-passive-income-make-money-online-with-ai/
+https://www.udemy.com/course/deepseek/
+https://www.udemy.com/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/
+https://www.udemy.com/course/deepseek-business/
+https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
+
 ## AI - Edge 
 * Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
 * Build On-Device AI - https://www.udemy.com/course/build-on-device-ai/ (In progress 05/23/2025 - ★★★☆☆ - Starts out nice and easy explaining how to use Qualcomm AI hub to build AI on edge devices. Suddenly jumps into obscure code without any explanation. Need to revisit later)
