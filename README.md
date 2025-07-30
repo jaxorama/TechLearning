@@ -465,6 +465,13 @@ https://www.udemy.com/course/data-structures-in-c/
 # Networking
 
 # Operating Systems
+* https://www.udemy.com/course/mastering-operating-systems-from-fundamentals-to-advanced/
+* https://www.udemy.com/course/the-complete-operating-systems-course/
+* https://www.udemy.com/course/the-complete-operating-systems-course-from-zero-to-expert/
+* https://www.udemy.com/course/draft/4972460/
+* https://www.udemy.com/course/operating-systems-online-course/
+* https://www.udemy.com/course/operatingsystems/
+* https://www.udemy.com/course/operating-systems-from-scratch-part1/
 
 # Programming
 ## Programming - Assembly X86
