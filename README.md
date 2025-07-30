@@ -356,6 +356,16 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 # Python
 * Running Python Anywhere - https://www.udemy.com/course/how-to-run-your-python-code-online-247-free-always-on/ -  (Completed 04/21/2025 - ★★★☆☆ - https://www.pythonanywhere.com/ is Good for running console apps, scheduled apps, notebooks, web apps, MYSQL and hosting files. However, paid for web apps etc. The course is useful, but too long for basic information)
 
+## Python - NumPy
+https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/
+https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/
+https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/
+https://www.udemy.com/course/python-numpy-exercises/
+https://www.udemy.com/course/python-numpy-data-analysis-for-data-scientist-ai-ml-dl/
+https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/
+https://www.udemy.com/course/numpy-with-python/
+https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
+
 # Quantum Computing
 * https://www.udemy.com/course/quantum-computing-kitchen/
 * https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/
