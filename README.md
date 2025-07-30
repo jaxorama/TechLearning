@@ -130,8 +130,34 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/revolutionize-your-business-with-chatgpt-zapier/
 * https://www.udemy.com/course/draft/5201812/
 * https://www.udemy.com/course/chatgpt-masterclass-start-using-chatgpt/
-* 
-
+* https://www.udemy.com/course/gpts-customized-version-of-chatgpt/
+* https://www.udemy.com/course/seo_chatgpt/
+* https://www.udemy.com/course/draft/5420182/
+* https://www.udemy.com/course/chatgpt-generative-ai-model2023/
+* https://www.udemy.com/course/master-how-to-use-chatgpt-marketing-advertising-content-creation-learn/
+* https://www.udemy.com/course/chatgpt-master-complete-openai-chatgpt-course/
+* https://www.udemy.com/course/mastering-chat-gpt-your-personal-life-hacks-guide/
+* https://www.udemy.com/course/chatgpt-foundation-course-complete-chatgpt-course-chatgpt-new/
+* https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/
+* https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/
+* https://www.udemy.com/course/build-online-business-with-ai-and-chatgpt/
+* https://www.udemy.com/course/chatgpt-secrets-complete-beginner-to-chatgpt-ninja-2023/
+* https://www.udemy.com/course/chatgpt-earning-money-with-chatgpt-easy-way-for-beginners/
+* https://www.udemy.com/course/how-to-use-chatgpt-and-generative-ai-to-help-create-content/
+* https://www.udemy.com/course/draft/5112038/
+* https://www.udemy.com/course/unlocking-the-power-of-chatgpt-in-data-science-a-z-guide/
+* https://www.udemy.com/course/chatgpt-the-complete-bootcamp-for-beginner-with-practical/
+* https://www.udemy.com/course/draft/5091642/
+* https://www.udemy.com/course/chatgpt-course-side-gig-chatgpt-create-chatgpt-promote-chat-gpt/
+* https://www.udemy.com/course/chatgpt-mastery-take-your-small-business-to-the-next-level/
+* https://www.udemy.com/course/make-teaching-easier-with-artificial-intelligence-chat-gpt/
+* https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/
+* https://www.udemy.com/course/what-is-chatgpt-will-it-replace-salesforce-developers/
+* https://www.udemy.com/course/draft/5060104/
+* https://www.udemy.com/course/chatgptcourse/
+* https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/
+* https://www.udemy.com/course/content-marketing-course-/
+* https://www.udemy.com/course/trend-spotter/
 ## AI - Tools
 https://www.udemy.com/course/supercharging-your-business-with-ai-tools/
 
