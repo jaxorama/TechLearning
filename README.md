@@ -562,6 +562,21 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 
 # Game Programming
 
+# Internet of Things (IoT)
+- https://www.udemy.com/course/introduction-of-internet-of-things-iot/
+- https://www.udemy.com/course/draft/3149922/
+- https://www.udemy.com/course/draft/2386322/
+- https://www.udemy.com/course/draft/2422692/
+- https://www.udemy.com/course/draft/1642806/
+- https://www.udemy.com/course/a4iot-intro-iot-cloud/
+- https://www.udemy.com/course/programming-internet-of-things-beginning-to-advance-level/
+- https://www.udemy.com/course/draft/1169512/
+- https://www.udemy.com/course/draft/639536/
+- https://www.udemy.com/course/draft/799974/
+- https://www.udemy.com/course/draft/1949214/
+- https://www.udemy.com/course/draft/1928070/
+- https://www.udemy.com/course/draft/1859730/
+
 # Linux
 ## Linux System Programming
 * Linux Inter Process Communication (IPC) from Scratch in C - https://www.udemy.com/course/linuxipc/ (★★★★★ - The best course there is for learning IPC)
