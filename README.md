@@ -326,6 +326,7 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/
 * https://www.udemy.com/course/ai-automation-course/
 * https://www.udemy.com/course/build-ai-call-assistants-ai-automation-agency-with-no-code/
+* https://www.udemy.com/course/draft/1052626/
 
 ## AI - NotebookLM
 * https://www.udemy.com/course/mastering-google-notebooklm-an-ai-powered-research-tool/
@@ -598,6 +599,12 @@ https://www.udemy.com/course/draft/1020950/
 https://www.udemy.com/course/no-code-developer/
 https://www.udemy.com/course/master-mendix-low-code-app-development-for-all-levels-part1/
 https://www.udemy.com/course/draft/6294395/
+* https://www.udemy.com/course/learn-how-to-build-a-web-application-without-coding/
+* https://www.udemy.com/course/instagram-clone-no-code-bubble/
+* https://www.udemy.com/course/make-your-own-netflix-clone-website-101/
+* https://www.udemy.com/course/build-web-applications-without-writing-any-code-with-bubble/
+* https://www.udemy.com/course/no-code-developer/
+* https://www.udemy.com/course/how-to-make-a-website-without-coding-m/
 
 
 ## Programming - Python
