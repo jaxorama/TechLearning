@@ -477,6 +477,12 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp 
 
 # Embedded Systems
+# Embedded ARM
+* https://www.udemy.com/course/arm-cortex-m-building-your-own-autonomous-robot-from-scratch/
+* https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors/
+* https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/
+* https://www.udemy.com/course/arm-assembly-for-hackers/
+* https://www.udemy.com/course/draft/3700444/
 
 # Embedded Firmware Security
 - Engineering Secure Devices - https://amzn.in/d/as7WTug (Completed 04/14/2025 - ★★★★☆) - Covers concepts such as device identity, secure boot, firmware update, secure communication etc. Easy to read)
@@ -487,6 +493,17 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 
 # Ethical Hacking
 - https://onebytelabs.in/account/home/my_courses
+
+# Ethical Hacking - Reversing
+* https://www.udemy.com/course/reverse-engineering-ida/
+* https://www.udemy.com/course/reverse-engineering-ghidra/
+* https://www.udemy.com/course/reverse-engineering-create-crackme/
+* https://www.udemy.com/course/reverse-engineering-packed-programs/
+* https://www.udemy.com/course/reversing-software-protection/
+* https://www.udemy.com/course/x64dbg-debugger/
+* https://www.udemy.com/course/advanced-ransomware-reverse-engineering/
+* https://www.udemy.com/course/immunity-debugger-yaksas-csc-lab-essentials/
+* https://www.udemy.com/course/reverse-engineering-and-exploit-development/
 
 
 # Game Programming
@@ -545,6 +562,7 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * https://www.udemy.com/course/operating-systems-online-course/
 * https://www.udemy.com/course/operatingsystems/
 * https://www.udemy.com/course/operating-systems-from-scratch-part1/
+* https://www.udemy.com/course/draft/4470226/
 
 # Programming
 ## Programming - Assembly X86
@@ -553,6 +571,11 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * https://www.udemy.com/course/assembly-best/
 * https://www.udemy.com/course/shellcode/
 * https://www.udemy.com/course/x86-adventures-part-1/
+* https://www.udemy.com/course/arm-assembly-for-hackers/
+* https://www.udemy.com/course/x86-asm-foundations/
+* https://www.udemy.com/course/assembly/
+* https://www.udemy.com/course/write-the-first-assembly-program-and-run-it-on-emulator/
+
 
 ## Programming - C
 * https://www.udemy.com/course/draft/1289592/
