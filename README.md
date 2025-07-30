@@ -125,6 +125,26 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 * AI Engineering Course by Gaurav Sen - https://interviewready.io/learn/ai-engineering (Started 06/04/2025)
 * Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
 * OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
+* https://www.udemy.com/course/learn-langchain-go-from-zero-to-hero-build-ai-apps/
+* https://www.udemy.com/course/talk-to-your-data-strategic-insights-with-llms/
+* https://www.udemy.com/course/build-a-custom-ai-tiny-llm-from-scratch-using-pytorch/
+* https://www.udemy.com/course/large-language-models-llms-fundamentals-g/
+* https://www.udemy.com/course/draft/6568023/
+* https://www.udemy.com/course/mathematics-of-llms-explained-in-everyday-language/
+* https://www.udemy.com/course/llm-engineer/
+* https://www.udemy.com/course/ai-agents-bootcamp-build-with-langchain-rag-langflow-gpt/
+* https://www.udemy.com/course/artificial-intelligence-certificated/
+* https://www.udemy.com/course/ai-foundations-for-decision-makers-from-zero-to-llms/
+* https://www.udemy.com/course/mastering-ai-with-transformers-and-llms/
+* https://www.udemy.com/course/draft/6333581/
+* https://www.udemy.com/course/llm-genai-interview-questions-and-answers-basic-to-expert/
+* https://www.udemy.com/course/how-chatgpt-and-llms-really-work-for-non-techies/
+* https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models
+* https://www.udemy.com/course/a-gentle-introduction-to-llmops/
+* https://www.udemy.com/course/multi-agent-llm-applications/
+* https://www.udemy.com/course/building-intelligent-agents-with-llms/
+* https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/
+* https://www.udemy.com/course/mastering-generative-ai-with-llms-a-hugging-face-guide/
   
 ## AI - Microsoft Copilot
 * LinkedIn Learning - Microsoft Copilot Studio
