@@ -184,6 +184,13 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 ## AI - Microsoft Copilot
 * LinkedIn Learning - Microsoft Copilot Studio
 
+## AI - Neural Networks
+https://www.udemy.com/course/machine-learning-training-neural-network-in-matlab/
+https://www.udemy.com/course/draft/1563080/
+https://www.udemy.com/course/neurorobotics/
+https://www.udemy.com/course/deep-learning-basics-with-python/
+https://www.udemy.com/course/dl-guided-project-image-classification-with-cnn-on-cifar-10/
+
 ## AI - No Code
 * https://www.udemy.com/course/ai-saas-apps/
 * https://www.udemy.com/course/build-your-ai-saas-software-with-no-code-no-coding-needed/
