@@ -197,20 +197,20 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 
 
 ## AI - DeepSeek
-https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
-https://www.udemy.com/course/deepseek-zero-to-hero/
-https://www.udemy.com/course/ai-made-easy-a-complete-deepseek-zero-to-hero-masterclass/
-https://www.udemy.com/course/deepseek-ai-deepseek-generative-ai-complete-essentials/
-https://www.udemy.com/course/from-zero-to-ai-how-to-master-deepseek-ai-as-a-beginner/
-https://www.udemy.com/course/deepseek-mastery/
-https://www.udemy.com/course/deepseek-course-with-prompt-engineering-free-course/
-https://www.udemy.com/course/deepseek-r1-real-world-projects/
-https://www.udemy.com/course/mastering-deepseek-unlock-the-power-of-ai-powered-search/
-https://www.udemy.com/course/deepseek-ai-for-passive-income-make-money-online-with-ai/
-https://www.udemy.com/course/deepseek/
-https://www.udemy.com/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/
-https://www.udemy.com/course/deepseek-business/
-https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
+* https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
+* https://www.udemy.com/course/deepseek-zero-to-hero/
+* https://www.udemy.com/course/ai-made-easy-a-complete-deepseek-zero-to-hero-masterclass/
+* https://www.udemy.com/course/deepseek-ai-deepseek-generative-ai-complete-essentials/
+* https://www.udemy.com/course/from-zero-to-ai-how-to-master-deepseek-ai-as-a-beginner/
+* https://www.udemy.com/course/deepseek-mastery/
+* https://www.udemy.com/course/deepseek-course-with-prompt-engineering-free-course/
+* https://www.udemy.com/course/deepseek-r1-real-world-projects/
+* https://www.udemy.com/course/mastering-deepseek-unlock-the-power-of-ai-powered-search/
+* https://www.udemy.com/course/deepseek-ai-for-passive-income-make-money-online-with-ai/
+* https://www.udemy.com/course/deepseek/
+* https://www.udemy.com/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/
+* https://www.udemy.com/course/deepseek-business/
+* https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
 
 ## AI - Edge 
 * Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
@@ -374,16 +374,16 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * AI ML Startup Case Studies (Sramana Mitra) - https://www.udemy.com/course/machinelearningaistartupcasestudy/
 * How to Build AI/ML Startups (Sramana Mitra) - https://www.udemy.com/course/artificialintelligencestartups/
 ## AI - Tools
-https://www.udemy.com/course/supercharging-your-business-with-ai-tools/
-https://www.udemy.com/course/self-confidence-with-ai-coaching-tools-tools-that-work/
-https://www.udemy.com/course/genai-revolution-transform-rd-with-cutting-edge-ai-tools/
-https://www.udemy.com/course/boost-your-productivity-write-better-code-with-ai-tools/
-https://www.udemy.com/course/draft/6534579/
-https://www.udemy.com/course/evaluating-generative-models/
-https://www.udemy.com/course/master-generative-ai-chatgpt-to-earn-passive-income-online/
-https://www.udemy.com/course/draft/6322667/
-https://www.udemy.com/course/chatgpt-for-product-management-and-innovation/
-https://www.udemy.com/course/learn-to-use-top-ai-tools-and-start-earning-instantly/
+* https://www.udemy.com/course/supercharging-your-business-with-ai-tools/
+* https://www.udemy.com/course/self-confidence-with-ai-coaching-tools-tools-that-work/
+* https://www.udemy.com/course/genai-revolution-transform-rd-with-cutting-edge-ai-tools/
+* https://www.udemy.com/course/boost-your-productivity-write-better-code-with-ai-tools/
+* https://www.udemy.com/course/draft/6534579/
+* https://www.udemy.com/course/evaluating-generative-models/
+* https://www.udemy.com/course/master-generative-ai-chatgpt-to-earn-passive-income-online/
+* https://www.udemy.com/course/draft/6322667/
+* https://www.udemy.com/course/chatgpt-for-product-management-and-innovation/
+* https://www.udemy.com/course/learn-to-use-top-ai-tools-and-start-earning-instantly/
   
 ## AI - Vibe
 * https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
@@ -415,31 +415,31 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * Data Science - 2 Day Workshop - https://www.youtube.com/watch?v=cyd-jtrocT8 | https://www.youtube.com/watch?v=_cBzePmET6Y
 
 # Data Structures & Algorithms
-https://www.udemy.com/course/data-structure-and-algorithm-tutorial/
-https://www.udemy.com/course/dsanimations/
-https://www.udemy.com/course/draft/5956976/
-https://www.udemy.com/course/the-only-algorithms-coding-interview-course-youll-ever-need/
-https://www.udemy.com/course/python-data-structures-algorithms/
-https://www.udemy.com/course/draft/5207270/
-https://www.udemy.com/course/data-structures-an-illustrative-introduction/
-https://www.udemy.com/course/data-structures-and-algorithms-dsa/
-https://www.udemy.com/course/datastructures-and-algorithmszero-to-hero/
-https://www.udemy.com/course/data-structures-with-python/
-https://www.udemy.com/course/data-structures-and-algorithms-in-the-c-programming-language/
-https://www.udemy.com/course/draft/2590844/
-https://www.udemy.com/course/draft/2448960/
-https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/
-https://www.udemy.com/course/python-data-structures-a-to-z/
-https://www.udemy.com/course/algorithms-bootcamp-in-c/
-https://www.udemy.com/course/draft/1727072/
-https://www.udemy.com/course/draft/1701490/
-https://www.udemy.com/course/algorithms-and-data-structures-in-c-coding-interview/
-https://www.udemy.com/course/draft/1355282/
-https://www.udemy.com/course/introduction-to-data-structures/
-https://www.udemy.com/course/data-structures-and-algorithms-from-0-to-hero/
-https://www.udemy.com/course/stacks-queues-binary-trees-heaps/
-https://www.udemy.com/course/from-0-to-1-data-structures/
-https://www.udemy.com/course/data-structures-in-c/
+* https://www.udemy.com/course/data-structure-and-algorithm-tutorial/
+* https://www.udemy.com/course/dsanimations/
+* https://www.udemy.com/course/draft/5956976/
+* https://www.udemy.com/course/the-only-algorithms-coding-interview-course-youll-ever-need/
+* https://www.udemy.com/course/python-data-structures-algorithms/
+* https://www.udemy.com/course/draft/5207270/
+* https://www.udemy.com/course/data-structures-an-illustrative-introduction/
+* https://www.udemy.com/course/data-structures-and-algorithms-dsa/
+* https://www.udemy.com/course/datastructures-and-algorithmszero-to-hero/
+* https://www.udemy.com/course/data-structures-with-python/
+* https://www.udemy.com/course/data-structures-and-algorithms-in-the-c-programming-language/
+* https://www.udemy.com/course/draft/2590844/
+* https://www.udemy.com/course/draft/2448960/
+* https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/
+* https://www.udemy.com/course/python-data-structures-a-to-z/
+* https://www.udemy.com/course/algorithms-bootcamp-in-c/
+* https://www.udemy.com/course/draft/1727072/
+* https://www.udemy.com/course/draft/1701490/
+* https://www.udemy.com/course/algorithms-and-data-structures-in-c-coding-interview/
+* https://www.udemy.com/course/draft/1355282/
+* https://www.udemy.com/course/introduction-to-data-structures/
+* https://www.udemy.com/course/data-structures-and-algorithms-from-0-to-hero/
+* https://www.udemy.com/course/stacks-queues-binary-trees-heaps/
+* https://www.udemy.com/course/from-0-to-1-data-structures/
+* https://www.udemy.com/course/data-structures-in-c/
 
 # DevOps
 * DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp 
@@ -464,31 +464,31 @@ https://www.udemy.com/course/data-structures-in-c/
 * Linux Inter Process Communication (IPC) from Scratch in C - https://www.udemy.com/course/linuxipc/ (★★★★★ - The best course there is for learning IPC)
 * 
 # Networking - Fundas
-https://www.udemy.com/course/network-engineer-taster-courses/
-https://www.udemy.com/course/introduction-to-computer-networks/
-https://www.udemy.com/course/learn-the-fundamentals-of-networking/
-https://www.udemy.com/course/draft/1322702/
-https://www.udemy.com/course/computer-networks/
-https://www.udemy.com/course/draft/4484690/
-https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/
-https://www.udemy.com/course/draft/2580994/
-https://www.udemy.com/course/it-networking-fundamentals/
-https://www.udemy.com/course/complete-comptia-network-it-networking-course/
-https://www.udemy.com/course/mastering-the-it-networking-fundamentals-mini-course/
-https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/
-https://www.udemy.com/course/mininettopologies/
-https://www.udemy.com/course/draft/2250750/
-https://www.udemy.com/course/computer-networking-foundations-packet-switching/
+* https://www.udemy.com/course/network-engineer-taster-courses/
+* https://www.udemy.com/course/introduction-to-computer-networks/
+* https://www.udemy.com/course/learn-the-fundamentals-of-networking/
+* https://www.udemy.com/course/draft/1322702/
+* https://www.udemy.com/course/computer-networks/
+* https://www.udemy.com/course/draft/4484690/
+* https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/
+* https://www.udemy.com/course/draft/2580994/
+* https://www.udemy.com/course/it-networking-fundamentals/
+* https://www.udemy.com/course/complete-comptia-network-it-networking-course/
+* https://www.udemy.com/course/mastering-the-it-networking-fundamentals-mini-course/
+* https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/
+* https://www.udemy.com/course/mininettopologies/
+* https://www.udemy.com/course/draft/2250750/
+* https://www.udemy.com/course/computer-networking-foundations-packet-switching/
 
 
 ## Networking - Special
-https://www.udemy.com/course/dnsguide/
-IPSEC VPN - https://www.udemy.com/course/draft/978700/
-SAN & NAS - https://www.udemy.com/course/storageintro/
-SDN - https://www.udemy.com/course/draft/1304990/
-SDN - https://www.udemy.com/course/sdn-openflow-nfv-introduction/
-https://www.udemy.com/course/tcp-http-spdy-deep-dive/
-IP subnetting
+* https://www.udemy.com/course/dnsguide/
+* IPSEC VPN - https://www.udemy.com/course/draft/978700/
+* SAN & NAS - https://www.udemy.com/course/storageintro/
+* SDN - https://www.udemy.com/course/draft/1304990/
+* SDN - https://www.udemy.com/course/sdn-openflow-nfv-introduction/
+* https://www.udemy.com/course/tcp-http-spdy-deep-dive/
+* IP subnetting
 * https://www.udemy.com/course/ip-subnet-math-in-under-15-seconds-without-calculator-by-kasey-shah/
 * https://www.udemy.com/course/subnetting-the-easy-way/
 * https://www.udemy.com/course/ip-adressing-and-subnetting/
@@ -496,14 +496,14 @@ IP subnetting
 * https://www.udemy.com/course/cisco-ccna-lab-options/
 
 ## Networking - Tools
-https://www.udemy.com/course/wireshark/
-https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/
-https://www.udemy.com/course/snmp-monitoring/
-Build Networks in GNS3 - https://www.udemy.com/course/draft/1290124/
-GNS3 - https://www.udemy.com/course/cisco-vpns-with-gns3-labs-practical-gre-ipsec-dmvpn-labs/
-Packet Tracer - https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/
-Packet Tracer - https://www.udemy.com/course/practical-cisco-networking-labs/
-https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/
+* https://www.udemy.com/course/wireshark/
+* https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/
+* https://www.udemy.com/course/snmp-monitoring/
+* Build Networks in GNS3 - https://www.udemy.com/course/draft/1290124/
+* GNS3 - https://www.udemy.com/course/cisco-vpns-with-gns3-labs-practical-gre-ipsec-dmvpn-labs/
+* Packet Tracer - https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/
+* Packet Tracer - https://www.udemy.com/course/practical-cisco-networking-labs/
+* https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/
 
 # Operating Systems
 * https://www.udemy.com/course/mastering-operating-systems-from-fundamentals-to-advanced/
@@ -516,89 +516,89 @@ https://www.udemy.com/course/python-network-programming-for-network-engineers-py
 
 # Programming
 ## Programming - Assembly X86
-https://www.udemy.com/course/master-x86-assembly-language-from-scratch/
-https://www.udemy.com/course/reverse-engineering-malware-analysis/
-https://www.udemy.com/course/assembly-best/
-https://www.udemy.com/course/shellcode/
-https://www.udemy.com/course/x86-adventures-part-1/
+* https://www.udemy.com/course/master-x86-assembly-language-from-scratch/
+* https://www.udemy.com/course/reverse-engineering-malware-analysis/
+* https://www.udemy.com/course/assembly-best/
+* https://www.udemy.com/course/shellcode/
+* https://www.udemy.com/course/x86-adventures-part-1/
 
 ## Programming - C
-https://www.udemy.com/course/draft/1289592/
-https://www.udemy.com/course/draft/1162000/
-https://www.udemy.com/course/pointers-in-c-simple-examples-and-memory-location-diagrams/
-https://www.udemy.com/course/c-language-foundations-demystified/
-https://www.udemy.com/course/c-programming-beginners-advanced/
-https://www.udemy.com/course/test-your-c-programming-skills/
-https://www.udemy.com/course/draft/1646986/
-https://www.udemy.com/course/c-language-interview-questions/
-https://www.udemy.com/course/embedded-c-programming-for-embedded-systems/
-https://www.udemy.com/course/c_tutorial/
-https://www.udemy.com/course/advanced-c-pointers/
-https://www.udemy.com/course/advanced-c-pointers/
-https://www.udemy.com/course/draft/2317548/
-https://www.udemy.com/course/c-programming-2019-master-the-basics/
-https://www.udemy.com/course/draft/2423062/
-https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/
-https://www.udemy.com/course/01-day-c-code-learn-c-programming-with-examples-in-one-day/
-https://www.udemy.com/course/mastering-pointers-in-c-a-course-on-efficient-programming/
-https://www.udemy.com/course/c-programming-language-tutorial-from-baby-steps-to-hardcore-programmer/
-https://www.udemy.com/course/learn-c-programming-language/
-https://www.udemy.com/course/from-0-to-1-c-programming/
-https://www.udemy.com/course/learn-socket-programming-in-c-from-scratch/
-https://www.udemy.com/course/draft/824742/
-https://www.udemy.com/course/draft/894286/
-https://www.udemy.com/course/draft/885599/
-https://www.udemy.com/course/draft/885595/
-https://www.udemy.com/course/draft/894308/
-https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/
+* https://www.udemy.com/course/draft/1289592/
+* https://www.udemy.com/course/draft/1162000/
+* https://www.udemy.com/course/pointers-in-c-simple-examples-and-memory-location-diagrams/
+* https://www.udemy.com/course/c-language-foundations-demystified/
+* https://www.udemy.com/course/c-programming-beginners-advanced/
+* https://www.udemy.com/course/test-your-c-programming-skills/
+* https://www.udemy.com/course/draft/1646986/
+* https://www.udemy.com/course/c-language-interview-questions/
+* https://www.udemy.com/course/embedded-c-programming-for-embedded-systems/
+* https://www.udemy.com/course/c_tutorial/
+* https://www.udemy.com/course/advanced-c-pointers/
+* https://www.udemy.com/course/advanced-c-pointers/
+* https://www.udemy.com/course/draft/2317548/
+* https://www.udemy.com/course/c-programming-2019-master-the-basics/
+* https://www.udemy.com/course/draft/2423062/
+* https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/
+* https://www.udemy.com/course/01-day-c-code-learn-c-programming-with-examples-in-one-day/
+* https://www.udemy.com/course/mastering-pointers-in-c-a-course-on-efficient-programming/
+* https://www.udemy.com/course/c-programming-language-tutorial-from-baby-steps-to-hardcore-programmer/
+* https://www.udemy.com/course/learn-c-programming-language/
+* https://www.udemy.com/course/from-0-to-1-c-programming/
+* https://www.udemy.com/course/learn-socket-programming-in-c-from-scratch/
+* https://www.udemy.com/course/draft/824742/
+* https://www.udemy.com/course/draft/894286/
+* https://www.udemy.com/course/draft/885599/
+* https://www.udemy.com/course/draft/885595/
+* https://www.udemy.com/course/draft/894308/
+* https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/
 
 ## Programming - C++
-https://www.udemy.com/course/free-learn-c-tutorial-beginners/
-https://www.udemy.com/course/cpp-short-and-sweet/
-https://www.udemy.com/course/draft/603014/
-https://www.udemy.com/course/c-and-c-programming/
-https://www.udemy.com/course/object-oriented-programming/
-https://www.udemy.com/course/draft/757346/
-https://www.udemy.com/course/cplusplus-75-solved-problems/
-https://www.udemy.com/course/learn-c-plus-plus-from-beginner-to-advanced/
-https://www.udemy.com/course/beg-cpp-temp/
-https://www.udemy.com/course/the-gnu-tool-primer/
-https://www.udemy.com/course/cpp-course/
-https://www.udemy.com/course/draft/1397484/
-https://www.udemy.com/course/c-programming-mastery-tricky-mcq-practice-tests/
-https://www.udemy.com/course/oops-and-c-from-basic-to-advanced/
-https://www.udemy.com/course/draft/1529238/
-https://www.udemy.com/course/embarcadero-c-builder/
-https://www.udemy.com/course/the-complete-introduction-to-c-programming/
-https://www.udemy.com/course/the-complete-c-plus-plus-programming-course-build-10-computer-apps/
-https://www.udemy.com/course/c-programming-for-everyone/
-https://www.udemy.com/course/competitive-programming-basics-cplusplus/
-https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/
-https://www.udemy.com/course/c-coding-learn-c-programming-with-examples-in-one-day/
-https://www.udemy.com/course/cpp-programming-beginners-to-advanced-for-developers/
-https://www.udemy.com/course/mastering-c-plus-plus-programming-essentials/
-https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/
-https://www.udemy.com/course/complete-c-plus-programming-course-from-basic-to-expert/
-https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/
-https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/
-https://www.udemy.com/course/draft/2487068/
-https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/
+* https://www.udemy.com/course/free-learn-c-tutorial-beginners/
+* https://www.udemy.com/course/cpp-short-and-sweet/
+* https://www.udemy.com/course/draft/603014/
+* https://www.udemy.com/course/c-and-c-programming/
+* https://www.udemy.com/course/object-oriented-programming/
+* https://www.udemy.com/course/draft/757346/
+* https://www.udemy.com/course/cplusplus-75-solved-problems/
+* https://www.udemy.com/course/learn-c-plus-plus-from-beginner-to-advanced/
+* https://www.udemy.com/course/beg-cpp-temp/
+* https://www.udemy.com/course/the-gnu-tool-primer/
+* https://www.udemy.com/course/cpp-course/
+* https://www.udemy.com/course/draft/1397484/
+* https://www.udemy.com/course/c-programming-mastery-tricky-mcq-practice-tests/
+* https://www.udemy.com/course/oops-and-c-from-basic-to-advanced/
+* https://www.udemy.com/course/draft/1529238/
+* https://www.udemy.com/course/embarcadero-c-builder/
+* https://www.udemy.com/course/the-complete-introduction-to-c-programming/
+* https://www.udemy.com/course/the-complete-c-plus-plus-programming-course-build-10-computer-apps/
+* https://www.udemy.com/course/c-programming-for-everyone/
+* https://www.udemy.com/course/competitive-programming-basics-cplusplus/
+* https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/
+* https://www.udemy.com/course/c-coding-learn-c-programming-with-examples-in-one-day/
+* https://www.udemy.com/course/cpp-programming-beginners-to-advanced-for-developers/
+* https://www.udemy.com/course/mastering-c-plus-plus-programming-essentials/
+* https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/
+* https://www.udemy.com/course/complete-c-plus-programming-course-from-basic-to-expert/
+* https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/
+* https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/
+* https://www.udemy.com/course/draft/2487068/
+* https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/
 
 ## Programming - CSS
 ## Programming - Golang
-https://www.udemy.com/course/draft/6279079/
-https://www.udemy.com/course/oauth-authentication/
-https://www.udemy.com/course/learn-golang/
-https://www.udemy.com/course/learn-how-to-code/
-https://www.udemy.com/course/master-json-fundamentals-unlock-the-power-of-data-exchange/
-https://www.udemy.com/course/draft/1020950/
+* https://www.udemy.com/course/draft/6279079/
+* https://www.udemy.com/course/oauth-authentication/
+* https://www.udemy.com/course/learn-golang/
+* https://www.udemy.com/course/learn-how-to-code/
+* https://www.udemy.com/course/master-json-fundamentals-unlock-the-power-of-data-exchange/
+* https://www.udemy.com/course/draft/1020950/
 
 ## Programming - HTML
 ## Programming - Javascript
 ## Programming - No Code / Low Code
-https://www.udemy.com/course/no-code-developer/
-https://www.udemy.com/course/master-mendix-low-code-app-development-for-all-levels-part1/
-https://www.udemy.com/course/draft/6294395/
+* https://www.udemy.com/course/no-code-developer/
+* https://www.udemy.com/course/master-mendix-low-code-app-development-for-all-levels-part1/
+* https://www.udemy.com/course/draft/6294395/
 * https://www.udemy.com/course/learn-how-to-build-a-web-application-without-coding/
 * https://www.udemy.com/course/instagram-clone-no-code-bubble/
 * https://www.udemy.com/course/make-your-own-netflix-clone-website-101/
@@ -609,21 +609,21 @@ https://www.udemy.com/course/draft/6294395/
 
 ## Programming - Python
 ## Programming - RUST
-https://www.udemy.com/course/mastering-rust-programming-building-safe-and-efficient-software/
-https://www.udemy.com/course/draft/1662608/
-https://www.udemy.com/course/rust-programming-bootcamp/
+* https://www.udemy.com/course/mastering-rust-programming-building-safe-and-efficient-software/
+* https://www.udemy.com/course/draft/1662608/
+* https://www.udemy.com/course/rust-programming-bootcamp/
 
 ## Programming - JSON & XML & YAML
-https://www.udemy.com/course/draft/6257521/
-https://www.udemy.com/course/introduction-to-yaml-a-hands-on-course-2022/
-https://www.udemy.com/course/ultimate-yaml-json-jsonpath-tutorial/
-https://www.udemy.com/course/draft/2560878/
-https://www.udemy.com/course/draft/1522794/
-https://www.udemy.com/course/master-in-json/
-https://www.udemy.com/course/xml-novice-to-ninja/
+* https://www.udemy.com/course/draft/6257521/
+* https://www.udemy.com/course/introduction-to-yaml-a-hands-on-course-2022/
+* https://www.udemy.com/course/ultimate-yaml-json-jsonpath-tutorial/
+* https://www.udemy.com/course/draft/2560878/
+* https://www.udemy.com/course/draft/1522794/
+* https://www.udemy.com/course/master-in-json/
+* https://www.udemy.com/course/xml-novice-to-ninja/
 
 ## Programming - PERL
-https://www.udemy.com/course/draft/1708096/
+* https://www.udemy.com/course/draft/1708096/
 
 # Product Management
 
@@ -636,14 +636,14 @@ https://www.udemy.com/course/draft/1708096/
 * Running Python Anywhere - https://www.udemy.com/course/how-to-run-your-python-code-online-247-free-always-on/ -  (Completed 04/21/2025 - ★★★☆☆ - https://www.pythonanywhere.com/ is Good for running console apps, scheduled apps, notebooks, web apps, MYSQL and hosting files. However, paid for web apps etc. The course is useful, but too long for basic information)
 
 ## Python - NumPy
-https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/
-https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/
-https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/
-https://www.udemy.com/course/python-numpy-exercises/
-https://www.udemy.com/course/python-numpy-data-analysis-for-data-scientist-ai-ml-dl/
-https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/
-https://www.udemy.com/course/numpy-with-python/
-https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
+* https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/
+* https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/
+* https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/
+* https://www.udemy.com/course/python-numpy-exercises/
+* https://www.udemy.com/course/python-numpy-data-analysis-for-data-scientist-ai-ml-dl/
+* https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/
+* https://www.udemy.com/course/numpy-with-python/
+* https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
 
 # Quantum Computing
 * https://www.udemy.com/course/quantum-computing-kitchen/
@@ -664,35 +664,35 @@ https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
 - https://www.udemy.com/course/free-course-on-sap-po-rest-json-and-api-basics/
 
 ## REST API - Testing
-https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/
-https://www.udemy.com/course/webservices-testing-restassured-postman-complete-guide-learnit/
-https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/
-https://www.udemy.com/course/absolute-beginner-postman-course/
-https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/
-https://www.udemy.com/course/postman-the-complete-guide/
-https://www.udemy.com/course/build-secure-apis-with-auth0-and-postman/
-https://www.udemy.com/course/api-restassured-httpclient/
-https://www.udemy.com/course/rest-assured-fundamentals/
-https://www.udemy.com/course/learn-rest-api-automation-using-rest-assured/
-https://www.udemy.com/course/api-testing-with-katalon-studio-step-by-step-for-beginners/
-https://www.udemy.com/course/rest-api-rest-api-testing-using-python-for-beginners/
+* https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/
+* https://www.udemy.com/course/webservices-testing-restassured-postman-complete-guide-learnit/
+* https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/
+* https://www.udemy.com/course/absolute-beginner-postman-course/
+* https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/
+* https://www.udemy.com/course/postman-the-complete-guide/
+* https://www.udemy.com/course/build-secure-apis-with-auth0-and-postman/
+* https://www.udemy.com/course/api-restassured-httpclient/
+* https://www.udemy.com/course/rest-assured-fundamentals/
+* https://www.udemy.com/course/learn-rest-api-automation-using-rest-assured/
+* https://www.udemy.com/course/api-testing-with-katalon-studio-step-by-step-for-beginners/
+* https://www.udemy.com/course/rest-api-rest-api-testing-using-python-for-beginners/
 
 # Security
 * Practical Security Architecture - https://www.udemy.com/course/practical-security-architecture-hands-on/
 * FIDO - https://www.udemy.com/course/bitscrafter-fido-core-principles/
 
 ## Security - Cryptography/Encryption
-https://www.udemy.com/course/algorithms-for-cryptography/
-https://www.udemy.com/course/draft/1951194/
-https://www.udemy.com/course/draft/1788470/
-https://www.udemy.com/course/cryptography-learn-public-key-infrastructure-or-pki-from-scratch/
-https://www.udemy.com/course/cryptography/
+* https://www.udemy.com/course/algorithms-for-cryptography/
+* https://www.udemy.com/course/draft/1951194/
+* https://www.udemy.com/course/draft/1788470/
+* https://www.udemy.com/course/cryptography-learn-public-key-infrastructure-or-pki-from-scratch/
+* https://www.udemy.com/course/cryptography/
 
 ## Security - SSL/TLS
-https://www.udemy.com/course/ssl-complete-guide/
-https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/
-https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/
-https://www.udemy.com/course/free-ssl-certificate/
+* https://www.udemy.com/course/ssl-complete-guide/
+* https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/
+* https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/
+* https://www.udemy.com/course/free-ssl-certificate/
 
 
 # Social Media
@@ -719,10 +719,10 @@ https://www.udemy.com/course/playwright-automation-testing-complete-bootcamp-uia
 * Full stack development overview - https://www.techworld-with-nana.com/it-beginners-course (Completed 05/10/2025 ★★★★★ - Great course by Nana. Gives an overview of frontend, backend, database along with Agile, Release management)
 
 # Web Server
-https://www.udemy.com/course/configure-apache-httpd-with-core-concept/
-https://www.udemy.com/course/nginx-crash-course/
-https://www.udemy.com/course/learning-nginx-web-server-from-zero-to-hero/
-https://www.udemy.com/course/draft/1497124/
+* https://www.udemy.com/course/configure-apache-httpd-with-core-concept/
+* https://www.udemy.com/course/nginx-crash-course/
+* https://www.udemy.com/course/learning-nginx-web-server-from-zero-to-hero/
+* https://www.udemy.com/course/draft/1497124/
 
 # Website 
 * How to build a website? - https://www.udemy.com/course/draft/2485902/ (Completed 6/25/2025 - Basic using Wix)
