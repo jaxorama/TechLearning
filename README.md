@@ -439,6 +439,13 @@ https://www.udemy.com/course/learn-to-use-top-ai-tools-and-start-earning-instant
 # Operating Systems
 
 # Programming
+## Programming - Assembly X86
+https://www.udemy.com/course/master-x86-assembly-language-from-scratch/
+https://www.udemy.com/course/reverse-engineering-malware-analysis/
+https://www.udemy.com/course/assembly-best/
+https://www.udemy.com/course/shellcode/
+https://www.udemy.com/course/x86-adventures-part-1/
+
 ## Programming - C
 https://www.udemy.com/course/draft/1289592/
 https://www.udemy.com/course/draft/1162000/
