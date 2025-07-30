@@ -462,7 +462,47 @@ https://www.udemy.com/course/data-structures-in-c/
 ## Linux System Programming
 * Linux Inter Process Communication (IPC) from Scratch in C - https://www.udemy.com/course/linuxipc/ (★★★★★ - The best course there is for learning IPC)
 * 
-# Networking
+# Networking - Fundas
+https://www.udemy.com/course/network-engineer-taster-courses/
+https://www.udemy.com/course/introduction-to-computer-networks/
+https://www.udemy.com/course/learn-the-fundamentals-of-networking/
+https://www.udemy.com/course/draft/1322702/
+https://www.udemy.com/course/computer-networks/
+https://www.udemy.com/course/draft/4484690/
+https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/
+https://www.udemy.com/course/draft/2580994/
+https://www.udemy.com/course/it-networking-fundamentals/
+https://www.udemy.com/course/complete-comptia-network-it-networking-course/
+https://www.udemy.com/course/mastering-the-it-networking-fundamentals-mini-course/
+https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/
+https://www.udemy.com/course/mininettopologies/
+https://www.udemy.com/course/draft/2250750/
+https://www.udemy.com/course/computer-networking-foundations-packet-switching/
+
+
+## Networking - Special
+https://www.udemy.com/course/dnsguide/
+IPSEC VPN - https://www.udemy.com/course/draft/978700/
+SAN & NAS - https://www.udemy.com/course/storageintro/
+SDN - https://www.udemy.com/course/draft/1304990/
+SDN - https://www.udemy.com/course/sdn-openflow-nfv-introduction/
+https://www.udemy.com/course/tcp-http-spdy-deep-dive/
+IP subnetting
+* https://www.udemy.com/course/ip-subnet-math-in-under-15-seconds-without-calculator-by-kasey-shah/
+* https://www.udemy.com/course/subnetting-the-easy-way/
+* https://www.udemy.com/course/ip-adressing-and-subnetting/
+* https://www.udemy.com/course/tech101-cables-and-connectors/
+* https://www.udemy.com/course/cisco-ccna-lab-options/
+
+## Networking - Tools
+https://www.udemy.com/course/wireshark/
+https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/
+https://www.udemy.com/course/snmp-monitoring/
+Build Networks in GNS3 - https://www.udemy.com/course/draft/1290124/
+GNS3 - https://www.udemy.com/course/cisco-vpns-with-gns3-labs-practical-gre-ipsec-dmvpn-labs/
+Packet Tracer - https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/
+Packet Tracer - https://www.udemy.com/course/practical-cisco-networking-labs/
+https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/
 
 # Operating Systems
 * https://www.udemy.com/course/mastering-operating-systems-from-fundamentals-to-advanced/
@@ -647,6 +687,12 @@ https://www.udemy.com/course/playwright-automation-testing-complete-bootcamp-uia
 * 
 * 
 * Full stack development overview - https://www.techworld-with-nana.com/it-beginners-course (Completed 05/10/2025 ★★★★★ - Great course by Nana. Gives an overview of frontend, backend, database along with Agile, Release management)
+
+# Web Server
+https://www.udemy.com/course/configure-apache-httpd-with-core-concept/
+https://www.udemy.com/course/nginx-crash-course/
+https://www.udemy.com/course/learning-nginx-web-server-from-zero-to-hero/
+https://www.udemy.com/course/draft/1497124/
 
 # Website 
 * How to build a website? - https://www.udemy.com/course/draft/2485902/ (Completed 6/25/2025 - Basic using Wix)
