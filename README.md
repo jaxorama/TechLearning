@@ -122,7 +122,13 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 * OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
   
 ## AI - Microsoft Copilot
-* LinkedIn Learning - Microsoft Copilot Studio (
+* LinkedIn Learning - Microsoft Copilot Studio
+
+## AI - NotebookLM
+https://www.udemy.com/course/mastering-google-notebooklm-an-ai-powered-research-tool/
+https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/
+https://www.udemy.com/course/the-ultimate-guide-to-google-notebooklm-ai-powered-notes/
+https://www.udemy.com/course/google-notebooklm-sta/
 
 ## AI - Art - Music
 * AI Music Creation - https://www.udemy.com/course/draft/1724702/
