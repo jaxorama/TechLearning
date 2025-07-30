@@ -145,6 +145,17 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 ## AI - Ethics
 * https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai (Completed 05/10/2025 ★☆☆☆☆ - Gotta hate all these LinkedIn learning robotic sounding slideshows read out by suited-up men on big budgets and tight schedules)
 
+## AI - Gemini
+* https://www.udemy.com/course/prompt-engineering-with-gemini-for-beginners-u/
+* https://www.udemy.com/course/learning-google-gemini-from-scratch/
+* https://www.udemy.com/course/complete-chatgpt-ai-masterclass-gemini-descript-feedly-generativeai/
+* https://www.udemy.com/course/mastering-bard-ai-googles-versatile-language-model/
+* https://www.udemy.com/course/master-gemini-ai-google-bard-prompt-engineering-bootcamp/
+* https://www.udemy.com/course/chatbot-technology-google-bard-ai/
+* https://www.udemy.com/course/draft/5225890/
+* https://www.udemy.com/course/ai-marketing-chatgpt-gemini/
+* https://www.udemy.com/course/gemini-ai-chatbot/
+
 ## AI - GenAI
 * Generative AI for Everyone by Andrew Ng - https://www.coursera.org/learn/generative-ai-for-everyone
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
