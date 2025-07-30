@@ -440,6 +440,34 @@ https://www.udemy.com/course/learn-to-use-top-ai-tools-and-start-earning-instant
 
 # Programming
 ## Programming - C
+https://www.udemy.com/course/draft/1289592/
+https://www.udemy.com/course/draft/1162000/
+https://www.udemy.com/course/pointers-in-c-simple-examples-and-memory-location-diagrams/
+https://www.udemy.com/course/c-language-foundations-demystified/
+https://www.udemy.com/course/c-programming-beginners-advanced/
+https://www.udemy.com/course/test-your-c-programming-skills/
+https://www.udemy.com/course/draft/1646986/
+https://www.udemy.com/course/c-language-interview-questions/
+https://www.udemy.com/course/embedded-c-programming-for-embedded-systems/
+https://www.udemy.com/course/c_tutorial/
+https://www.udemy.com/course/advanced-c-pointers/
+https://www.udemy.com/course/advanced-c-pointers/
+https://www.udemy.com/course/draft/2317548/
+https://www.udemy.com/course/c-programming-2019-master-the-basics/
+https://www.udemy.com/course/draft/2423062/
+https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/
+https://www.udemy.com/course/01-day-c-code-learn-c-programming-with-examples-in-one-day/
+https://www.udemy.com/course/mastering-pointers-in-c-a-course-on-efficient-programming/
+https://www.udemy.com/course/c-programming-language-tutorial-from-baby-steps-to-hardcore-programmer/
+https://www.udemy.com/course/learn-c-programming-language/
+https://www.udemy.com/course/from-0-to-1-c-programming/
+https://www.udemy.com/course/learn-socket-programming-in-c-from-scratch/
+https://www.udemy.com/course/draft/824742/
+https://www.udemy.com/course/draft/894286/
+https://www.udemy.com/course/draft/885599/
+https://www.udemy.com/course/draft/885595/
+https://www.udemy.com/course/draft/894308/
+
 ## Programming - C++
 https://www.udemy.com/course/free-learn-c-tutorial-beginners/
 https://www.udemy.com/course/cpp-short-and-sweet/
@@ -474,9 +502,32 @@ https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advan
 
 ## Programming - CSS
 ## Programming - Golang
+https://www.udemy.com/course/draft/6279079/
+https://www.udemy.com/course/oauth-authentication/
+https://www.udemy.com/course/learn-golang/
+https://www.udemy.com/course/learn-how-to-code/
+https://www.udemy.com/course/master-json-fundamentals-unlock-the-power-of-data-exchange/
+https://www.udemy.com/course/draft/1020950/
+
 ## Programming - HTML
 ## Programming - Javascript
+## Programming - No Code
+https://www.udemy.com/course/no-code-developer/
+
 ## Programming - Python
+## Programming - RUST
+https://www.udemy.com/course/mastering-rust-programming-building-safe-and-efficient-software/
+https://www.udemy.com/course/draft/1662608/
+https://www.udemy.com/course/rust-programming-bootcamp/
+
+## Programming - JSON & YAML
+https://www.udemy.com/course/draft/6257521/
+https://www.udemy.com/course/introduction-to-yaml-a-hands-on-course-2022/
+https://www.udemy.com/course/ultimate-yaml-json-jsonpath-tutorial/
+https://www.udemy.com/course/draft/2560878/
+https://www.udemy.com/course/draft/1522794/
+https://www.udemy.com/course/master-in-json/
+
 
 # Product Management
 
