@@ -91,6 +91,16 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/build-ai-agents-with-n8n-free-hands-on-training/
 * https://www.udemy.com/course/master-n8n-ai-agents-build-sell-ai-agents-and-automations/
 * https://www.udemy.com/course/n8n-automation-mastery-build-custom-n8n-automation-workflows/
+* https://www.udemy.com/course/practical-ai-automation-for-it-teams-stop-googling-scripts/
+* https://www.udemy.com/course/learn-how-to-automate-research-using-ai/
+* https://www.udemy.com/course/ai-crypto-2025-trading-investing-careers-ai-automation/
+* https://www.udemy.com/course/draft/6392345/
+* https://www.udemy.com/course/passiveearn/
+* https://www.udemy.com/course/chatbot-development-course/
+* https://www.udemy.com/course/ai-automation-agency/
+* https://www.udemy.com/course/draft/4367512/
+* https://www.udemy.com/course/draft/3708242/
+* 
 ## AI - Bard
 * https://www.udemy.com/course/google-bard-generative-ai-masterclass-certification-course/
 * https://www.udemy.com/course/google-bard-for-travel-tips-free-course-on-travel-tips/
@@ -158,8 +168,8 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/
 * https://www.udemy.com/course/content-marketing-course-/
 * https://www.udemy.com/course/trend-spotter/
-## AI - Tools
-https://www.udemy.com/course/supercharging-your-business-with-ai-tools/
+
+
 
 ## AI - Claude
 https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/
@@ -362,7 +372,17 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * AI ML Startup (Sramana Mitra) - https://www.udemy.com/course/artificialintelligencemlstartupcasestudy/
 * AI ML Startup Case Studies (Sramana Mitra) - https://www.udemy.com/course/machinelearningaistartupcasestudy/
 * How to Build AI/ML Startups (Sramana Mitra) - https://www.udemy.com/course/artificialintelligencestartups/
-* 
+## AI - Tools
+https://www.udemy.com/course/supercharging-your-business-with-ai-tools/
+https://www.udemy.com/course/self-confidence-with-ai-coaching-tools-tools-that-work/
+https://www.udemy.com/course/genai-revolution-transform-rd-with-cutting-edge-ai-tools/
+https://www.udemy.com/course/boost-your-productivity-write-better-code-with-ai-tools/
+https://www.udemy.com/course/draft/6534579/
+https://www.udemy.com/course/evaluating-generative-models/
+https://www.udemy.com/course/master-generative-ai-chatgpt-to-earn-passive-income-online/
+https://www.udemy.com/course/draft/6322667/
+https://www.udemy.com/course/chatgpt-for-product-management-and-innovation/
+https://www.udemy.com/course/learn-to-use-top-ai-tools-and-start-earning-instantly/
   
 ## AI - Vibe
 * https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
@@ -419,13 +439,44 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 # Operating Systems
 
 # Programming
-- C
-- C++
-- CSS
-- Golang
-- HTML
-- Javascript
-- Python
+## Programming - C
+## Programming - C++
+https://www.udemy.com/course/free-learn-c-tutorial-beginners/
+https://www.udemy.com/course/cpp-short-and-sweet/
+https://www.udemy.com/course/draft/603014/
+https://www.udemy.com/course/c-and-c-programming/
+https://www.udemy.com/course/object-oriented-programming/
+https://www.udemy.com/course/draft/757346/
+https://www.udemy.com/course/cplusplus-75-solved-problems/
+https://www.udemy.com/course/learn-c-plus-plus-from-beginner-to-advanced/
+https://www.udemy.com/course/beg-cpp-temp/
+https://www.udemy.com/course/the-gnu-tool-primer/
+https://www.udemy.com/course/cpp-course/
+https://www.udemy.com/course/draft/1397484/
+https://www.udemy.com/course/c-programming-mastery-tricky-mcq-practice-tests/
+https://www.udemy.com/course/oops-and-c-from-basic-to-advanced/
+https://www.udemy.com/course/draft/1529238/
+https://www.udemy.com/course/embarcadero-c-builder/
+https://www.udemy.com/course/the-complete-introduction-to-c-programming/
+https://www.udemy.com/course/the-complete-c-plus-plus-programming-course-build-10-computer-apps/
+https://www.udemy.com/course/c-programming-for-everyone/
+https://www.udemy.com/course/competitive-programming-basics-cplusplus/
+https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/
+https://www.udemy.com/course/c-coding-learn-c-programming-with-examples-in-one-day/
+https://www.udemy.com/course/cpp-programming-beginners-to-advanced-for-developers/
+https://www.udemy.com/course/mastering-c-plus-plus-programming-essentials/
+https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/
+https://www.udemy.com/course/complete-c-plus-programming-course-from-basic-to-expert/
+https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/
+https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/
+https://www.udemy.com/course/draft/2487068/
+https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/
+
+## Programming - CSS
+## Programming - Golang
+## Programming - HTML
+## Programming - Javascript
+## Programming - Python
 
 # Product Management
 
@@ -470,6 +521,9 @@ https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
 # System Design
 * Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design
 * Learning Cloud Architecture - Practical Design - https://www.udemy.com/course/design-architecture/
+
+# Testing
+https://www.udemy.com/course/playwright-automation-testing-complete-bootcamp-uiapi/
 
 # Tools
 
