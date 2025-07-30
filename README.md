@@ -195,7 +195,12 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 * https://www.udemy.com/course/building-intelligent-agents-with-llms/
 * https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/
 * https://www.udemy.com/course/mastering-generative-ai-with-llms-a-hugging-face-guide/
-  
+
+## AI - Looker
+* https://www.udemy.com/course/lookml-google-looker-for-developers/
+* https://www.udemy.com/course/google-looker-lookml/
+* https://www.udemy.com/course/draft/6621397/
+
 ## AI - Monitoring
 * https://www.udemy.com/course/monitoring-and-maintaining-agent-performance/
 * https://www.udemy.com/course/draft/6550395/
