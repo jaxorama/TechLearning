@@ -2,12 +2,12 @@
 A compendium of tech courses and tech reading that I am doing. 
 
 # Ratings Guide
-★★★★★ - Great course. Learned a lot from it. You will too. Highly recommend it.
-★★★★☆ - Great course. I learned some things from it. You will probably gain something useful from it. 
-★★★☆☆ - Average course. Some useful things. But not great. Still worth a look for you are looking for some basics.
-★★☆☆☆ - You won't see them here. Unless there is 
-★☆☆☆☆ - You won't see them here. 
-☆☆☆☆☆ - You won't see them here.
+* ★★★★★ - Great course. Learned a lot from it. You will too. Highly recommend it.
+* ★★★★☆ - Great course. I learned some things from it. You will probably gain something useful from it. 
+* ★★★☆☆ - Average course. Some useful things. But not great. Still worth a look for you are looking for some basics.
+* ★★☆☆☆ - You won't see them here. Unless...
+* ★☆☆☆☆ - You won't see them here. 
+* ☆☆☆☆☆ - You won't see them here.
  
 # AI 
 ## AI Basics
