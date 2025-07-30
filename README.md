@@ -229,6 +229,12 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/deep-learning-basics-with-python/
 * https://www.udemy.com/course/dl-guided-project-image-classification-with-cnn-on-cifar-10/
 
+## AI - NLP
+* https://www.udemy.com/course/draft/5949600/
+* https://www.udemy.com/course/draft/6531623/
+* https://www.udemy.com/course/nlp-in-python-probability-models-statistics-text-analysis/
+* https://www.udemy.com/course/generative-ai-mastery-langchain/
+  
 ## AI - No Code
 * https://www.udemy.com/course/ai-saas-apps/
 * https://www.udemy.com/course/build-your-ai-saas-software-with-no-code-no-coding-needed/
