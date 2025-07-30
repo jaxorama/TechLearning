@@ -115,6 +115,11 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 ## AI - Copilot
 https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/
 https://www.udemy.com/course/copilot-for-windows-365-lead-your-industry-with-ai-power/
+https://www.udemy.com/course/microsoft-365-copilot-your-ai-companion-essentials/
+https://www.udemy.com/course/draft/5924910/
+https://www.udemy.com/course/github-copilot-ai-powered-code-generation/
+https://www.udemy.com/course/become-an-ai-powered-engineer-chatgpt-github-copilot/
+https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/
 
 
 ## AI - DeepSeek
