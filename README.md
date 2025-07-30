@@ -1,5 +1,13 @@
 # Tech Learning
 A compendium of tech courses and tech reading that I am doing. 
+
+# Ratings Guide
+★★★★★ - Great course. Learned a lot from it. You will too. Highly recommend it.
+★★★★☆ - Great course. I learned some things from it. You will probably gain something useful from it. 
+★★★☆☆ - Average course. Some useful things. But not great. Still worth a look for you are looking for some basics.
+★★☆☆☆ - You won't see them here. Unless there is 
+★☆☆☆☆ - You won't see them here. 
+☆☆☆☆☆ - You won't see them here.
  
 # AI 
 ## AI Basics
@@ -400,9 +408,33 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * Build a Career in Emerging Technologies - https://www.udemy.com/course/emerging-technologies-career-guide/
 * Build a Career in AI, ML, Data Science - https://www.udemy.com/course/ai-ml-data-science-career-guide/
 
-# Cloud Computing
+# Cloud Computing - Fundas
 * Cloud Computing for Beginners - https://www.udemy.com/course/cloud-computing-for-beginners-course/
+* https://www.udemy.com/course/introduction-to-cloud-computing/
+* https://www.udemy.com/course/fundamentals-of-cloud-computing-by-cloudthat/
+* https://www.udemy.com/course/fundamentals-of-cloud-and-cloud-computing/
+* https://www.udemy.com/course/cloud-computing-the-technical-essentials/
+* https://www.udemy.com/course/draft/1222254/
+* https://www.udemy.com/course/introduction-cloud-computing/
+* https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/
+* https://www.udemy.com/course/draft/955464/
+* https://www.udemy.com/course/cloud-computing-lab-programs/
+* https://www.udemy.com/course/a4iot-intro-iot-cloud/
+* https://www.udemy.com/course/draft/880288/
+* https://www.udemy.com/course/aws-identity-and-access-management-iam-foundations/
+* https://www.udemy.com/course/aws-cloud-technology-masterclass/
+
+## Cloud Computing - AWS
+* https://www.udemy.com/course/cloud-computing-with-amazon-web-services-part-1/
+* https://www.udemy.com/course/introduction-to-cloud-computing-on-aws-for-beginners-with-aws/
+* https://www.udemy.com/course/draft/964656/
+* https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/
+* https://www.udemy.com/course/amazon-web-services-aws-v/
 * 
+
+# Cloud Computing - Docker
+
+
 # Databases
 
 # Data Center
