@@ -77,6 +77,11 @@ https://www.udemy.com/course/cursor-ai-build-apps/
 * https://www.udemy.com/course/build-ai-agents-with-n8n-free-hands-on-training/
 * https://www.udemy.com/course/master-n8n-ai-agents-build-sell-ai-agents-and-automations/
 * https://www.udemy.com/course/n8n-automation-mastery-build-custom-n8n-automation-workflows/
+
+## AI - Claude
+https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/
+https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
+
 ## AI - Computer Vision
 * https://www.udemy.com/course/mastering-opencv-a-practical-guide-to-computer-vision/
 * https://www.udemy.com/course/learn-computer-vision-python-image-automation-examples/
@@ -134,6 +139,8 @@ https://www.udemy.com/course/google-notebooklm-sta/
 * AI Music Creation - https://www.udemy.com/course/draft/1724702/
 * Compose Music with AI - https://www.udemy.com/course/draft/6031906/
 * Create stories, music and art with AI - https://www.udemy.com/course/creating-interesting-comics-using-artificial-intelligence/
+* https://www.udemy.com/course/draft/2266378/
+  
 ## AI - Art - Image Generation & Editing
 * AI Image & Video Editing for Beginners - https://www.udemy.com/course/ai-image-and-video-editing-for-complete-beginners/
 * AI Image & Video Generation for Beginners - https://www.udemy.com/course/ai-for-absolute-beginners-productivity-machine/
@@ -157,6 +164,34 @@ https://www.udemy.com/course/google-notebooklm-sta/
 * Full AI course - https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/
 * Dall-E Artistry - https://www.udemy.com/course/mastering-dalle-artistry-ai-creative-revolution/
 * Dall-E, Gemini - https://www.udemy.com/course/all-in-one-ai-course-chatgpt-perplexity-claude-gemini/
+
+## AI Art - Video
+https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/
+https://www.udemy.com/course/produce-cinematic-videos-for-free-using-gemini-veo-2-api/
+https://www.udemy.com/course/movie-scene-creation-with-free-generative-ai-text-to-video-4/
+https://www.udemy.com/course/create-cinematic-videos-w-google-veo-3-free-alternative-1/
+https://www.udemy.com/course/draft/6668273/
+https://www.udemy.com/course/draft/6658529/
+https://www.udemy.com/course/runway-ai-full-course-for-stunning-videos-ads-scenes/
+https://www.udemy.com/course/sora-ai-master-viral-videos-ads-profitable-content/
+https://www.udemy.com/course/mastering-ai-video-creation-with-sora/
+https://www.udemy.com/course/ai-powered-tutorial-creation-make-videos-with-trupeer/
+https://www.udemy.com/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/
+https://www.udemy.com/course/ai-for-everything-video-generation-to-realistic-song/
+https://www.udemy.com/course/openai-sora-ai-video-production-free-course/
+https://www.udemy.com/course/draft/6361301/
+https://www.udemy.com/course/sora-ai-master-ai-video-generation-soraai-beginner-to-pro/
+https://www.udemy.com/course/create-viral-ai-video-using-chatgpt-for-affiliate-marketing/
+https://www.udemy.com/course/your-guide-to-invideo-ai-creating-fantastic-videos/
+https://www.udemy.com/course/draft/6165221/
+https://www.udemy.com/course/ai-video-creation-revolution/
+https://www.udemy.com/course/start-your-ai-driven-video-content-agency-chatgpt-invideo/
+https://www.udemy.com/course/utilize-the-power-of-ai-video-editing-invideoai/
+https://www.udemy.com/course/mastering-ai-driven-video-creation-chatgpt-humanpal/
+https://www.udemy.com/course/chatgpt-for-video-creation-and-editing-complete-guide/
+https://www.udemy.com/course/master-ai-video-creation-for-free-unlock-your-creativity/
+https://www.udemy.com/course/runwayml-ai-video-editor-become-master-in-video-editing/
+https://www.udemy.com/course/ai-videos-side-hustle-create-faceless-videos-earn-online/
 
 
 ## AI - Prompt Engineering
