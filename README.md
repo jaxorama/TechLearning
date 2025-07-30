@@ -477,17 +477,71 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp 
 
 # Embedded Systems
-# Embedded ARM
+- https://www.udemy.com/course/embedded-electronics-bootcamp-from-bit-to-deep-learning/
+- https://www.udemy.com/course/embedded-systems-job-interview-101/
+- 
+## Embedded - 8051
+* https://www.udemy.com/course/embedded-systems-with-8051-micro-controller/
+* https://www.udemy.com/course/8051-microcontroller-embedded-c-and-assembly-language/
+* https://www.udemy.com/course/the-8051-microcontroller/
+* 
+## Embedded - Arduino
+## Embedded - ARM
 * https://www.udemy.com/course/arm-cortex-m-building-your-own-autonomous-robot-from-scratch/
 * https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors/
 * https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/
 * https://www.udemy.com/course/arm-assembly-for-hackers/
 * https://www.udemy.com/course/draft/3700444/
+* https://www.udemy.com/course/arm-mbed/
 
-# Embedded Firmware Security
+## Embedded - Electronics
+* https://www.udemy.com/course/the-art-of-doing-basic-electronic-circuits/
+* https://www.udemy.com/course/draft/2235554/
+* https://www.udemy.com/course/draft/1924510/
+* https://www.udemy.com/course/introduction-to-electronics-w/
+* https://www.udemy.com/course/the-complete-basic-electronics-course/
+* https://www.udemy.com/course/the-theory-behind-electronics-a-beginners-guide/
+
+## Embedded - Firmware Security
 - Engineering Secure Devices - https://amzn.in/d/as7WTug (Completed 04/14/2025 - ★★★★☆) - Covers concepts such as device identity, secure boot, firmware update, secure communication etc. Easy to read)
 - Embedded Systems Hardware Penetration Testing - https://www.udemy.com/course/embeddedsystemshardwarepenetesting/
-  
+## Embedded - FPGA
+- https://www.udemy.com/course/practical-fpga-project-design-uart/
+- https://www.udemy.com/course/pci-express-development-with-fpga/
+## Embedded - Linux
+- https://www.udemy.com/course/embedded-linux-step-by-step-using-beaglebone/
+
+## Embedded - Microcontroller
+- https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/
+- https://www.udemy.com/course/microcontroller-make-money-using-your-skills/
+- https://www.udemy.com/course/draft/1913400/
+- https://www.udemy.com/course/pic-microcontroller-build-engineering-projects-today/
+- https://www.udemy.com/course/pic-microcontroller-simulation/
+- https://www.udemy.com/course/draft/1975432/
+- https://www.udemy.com/course/mcu_msp430/
+- https://www.udemy.com/course/esp32-esp-espboard-program-course-boot-camp/
+- https://www.udemy.com/course/micropython-micro-python-introduction-to-programming-hardware-python/
+- https://www.udemy.com/course/introduction-to-bbc-microbit/
+- https://www.udemy.com/course/draft/2599834/
+- 
+## Embedded - Misc
+* https://www.udemy.com/course/draft/1332976/
+* https://www.udemy.com/course/8086-microprocessor-architecture-in-one-video-in-easy-way/
+* https://www.udemy.com/course/fundamentals-of-microprocessor-quiz/
+* https://www.udemy.com/course/embedded-system-design-using-cypsoc4/
+* https://www.udemy.com/course/i2c-protocol/
+* https://www.udemy.com/course/sensors-interfacing-sensor-wiring-sensor-temperature-humidity-sensors/
+* https://www.udemy.com/course/micropython-micro-python-introduction-to-programming-hardware-python/
+* https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/
+* https://www.udemy.com/course/draft/1876924/
+* https://www.udemy.com/course/intro-to-embedded-ml/
+## Embedded - PCB
+https://www.udemy.com/course/pcb-design/
+https://www.udemy.com/course/pcb-bundle-circuit-design-printed-circuit-board-proteus-orcade-altuim/
+https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
+
+## Embedded - Raspberry Pi
+
 # Encryption
 * Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ (Completed 3/4/2025. Rating ★★★☆☆)
 
