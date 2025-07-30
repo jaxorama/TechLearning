@@ -165,6 +165,21 @@ https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
 * What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
 
+## AI - Governance
+* https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/
+* https://www.udemy.com/course/gen-ai-governance/
+* https://www.udemy.com/course/generative-ai-governance-build-a-responsible-ai-coe/
+* https://www.udemy.com/course/ai-governance-professional-aigp-certification-ai-mastery/
+* https://www.udemy.com/course/data-governance-in-2025-frameworks-compliance-quality/
+* https://www.udemy.com/course/ai-governance-and-compliance-a-certification-course/
+* 
+## AI - Langchains
+https://www.udemy.com/course/zero-to-hero-in-langchain/
+https://www.udemy.com/course/discover-the-power-of-flowiseai/
+https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/
+https://www.udemy.com/course/langchain-course/
+https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-langchain/
+
 ## AI - Llama
 * https://www.udemy.com/course/open-source-llms/
 * https://www.udemy.com/course/getting-started-with-gen-ai-langchain-llama3-ollama/
