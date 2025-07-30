@@ -602,7 +602,21 @@ https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
 
 # Security
 * Practical Security Architecture - https://www.udemy.com/course/practical-security-architecture-hands-on/
-* 
+* FIDO - https://www.udemy.com/course/bitscrafter-fido-core-principles/
+
+## Security - Cryptography/Encryption
+https://www.udemy.com/course/algorithms-for-cryptography/
+https://www.udemy.com/course/draft/1951194/
+https://www.udemy.com/course/draft/1788470/
+https://www.udemy.com/course/cryptography-learn-public-key-infrastructure-or-pki-from-scratch/
+https://www.udemy.com/course/cryptography/
+
+## Security - SSL/TLS
+https://www.udemy.com/course/ssl-complete-guide/
+https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/
+https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/
+https://www.udemy.com/course/free-ssl-certificate/
+
 
 # Social Media
 # Software Development 
