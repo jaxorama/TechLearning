@@ -541,6 +541,21 @@ https://www.udemy.com/course/pcb-bundle-circuit-design-printed-circuit-board-pro
 https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 
 ## Embedded - Raspberry Pi
+- https://www.udemy.com/course/rpi-full-stack/
+* https://www.udemy.com/course/introduction-to-raspberry-pi/
+* https://www.udemy.com/course/build-your-own-super-computer-with-raspberry-pi/
+* https://www.udemy.com/course/raspberry-pi-with-embedded-linux-made-by-yocto/
+* https://www.udemy.com/course/homebaked-raspberry-pi-django/
+* https://www.udemy.com/course/from-0-to-1-raspberry-pi/
+* https://www.udemy.com/course/raspberry-pi-workshop-become-a-coder-maker-inventor/
+* https://www.udemy.com/course/getting-started-with-raspberry-pi/
+* https://www.udemy.com/course/raspberry-pi-course-raspberry-pi-projects/
+* https://www.udemy.com/course/draft/1446668/
+* https://www.udemy.com/course/raspberry-pi-with-arduino-connect-and-interface-/
+* https://www.udemy.com/course/mainframe-pi-install-mvs-on-your-raspberry-pi/
+* https://www.udemy.com/course/draft/1928070/
+* https://www.udemy.com/course/raspberry-pi-complete-raspberrypi-bootcamp-python-raspberry-pi/
+* https://www.udemy.com/course/draft/3943618/
 
 # Encryption
 * Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ (Completed 3/4/2025. Rating ★★★☆☆)
