@@ -788,6 +788,9 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/quantum-computing-kitchen/
 * https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/
 * https://www.udemy.com/course/quantum-computing-for-decision-makers-executive-essentials/
+* https://www.udemy.com/course/quantum-computing-introduction/
+* https://www.udemy.com/course/draft/4079958/
+* https://www.udemy.com/course/introduction-to-quantum-computing/
 
 # REST API
 - HTTP Deep Dive - https://www.udemy.com/course/http-deep-dive/ (Completed: 03/23/2025 - ★★★☆☆ - Pretty basic course on HTTP)
