@@ -26,141 +26,6 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/mastering-agentic-design-patterns/
 * https://www.udemy.com/course/agentic-design-patterns/
 
-## AI - Building Applications
-* Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
-* AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
-
-No Code
-* https://www.udemy.com/course/ai-saas-apps/
-* https://www.udemy.com/course/build-your-ai-saas-software-with-no-code-no-coding-needed/
-* https://www.udemy.com/course/build-ai-automation-agency-chatbots-genai-with-vectorshift/
-* https://www.udemy.com/course/build-professional-trading-bots-the-no-code-masterclass/
-* https://www.udemy.com/course/mastering-ai-agents-with-lyzr-agent-studio/
-* https://www.udemy.com/course/develop-ai-automations-course/
-* https://www.udemy.com/course/ai-chatbots/
-* https://www.udemy.com/course/no-code-ai-chatbot-mastery-build-your-own-in-one-hour/
-* https://www.udemy.com/course/no-code-machine-learning-with-qlik-automl/
-* https://www.udemy.com/course/draft/4584758/
-* https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/
-* https://www.udemy.com/course/draft/4204976/
-* https://www.udemy.com/course/no-code-machine-learning/
-* https://www.udemy.com/course/no-low-code-marketing-automation/
-* https://www.udemy.com/course/the-complete-course-for-ai-agent-with-no-code-tool-2025/
-* https://www.udemy.com/course/master-ai-voice-agents-automate-calls-with-ai-and-no-code/
-* https://www.udemy.com/course/partyrock/
-* https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/
-* https://www.udemy.com/course/ai-automation-course/
-* https://www.udemy.com/course/build-ai-call-assistants-ai-automation-agency-with-no-code/
-Llama
-* https://www.udemy.com/course/open-source-llms/
-* https://www.udemy.com/course/getting-started-with-gen-ai-langchain-llama3-ollama/
-* https://www.udemy.com/course/draft/5982012/
-* https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/
-* 
-Ollama
-* https://www.udemy.com/course/master-deepseek-llama-other-llms-with-openwebui-ollama/
-* https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
-* https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/
-* https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/
-* https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/
-* https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
-  
-Vibe
-https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
-https://www.udemy.com/course/cursor-ai-build-apps/
-
-
-## AI - Automation
-* Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
-* n8n
-* https://www.udemy.com/course/mastering-ai-workflow-automation-with-n8n-from-zero-to-pro/
-* https://www.udemy.com/course/build-ai-agents-with-n8n-free-hands-on-training/
-* https://www.udemy.com/course/master-n8n-ai-agents-build-sell-ai-agents-and-automations/
-* https://www.udemy.com/course/n8n-automation-mastery-build-custom-n8n-automation-workflows/
-
-## AI - Claude
-https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/
-https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
-
-## AI - Computer Vision
-* https://www.udemy.com/course/mastering-opencv-a-practical-guide-to-computer-vision/
-* https://www.udemy.com/course/learn-computer-vision-python-image-automation-examples/
-* https://www.udemy.com/course/draft/5597256/
-* https://www.udemy.com/course/computer-vision-fundamentals/
-* https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/
-* https://www.udemy.com/course/computer-vision-with-python/
-* https://www.udemy.com/course/learn-computer-vision-for-beginners-part-2/
-* https://www.udemy.com/course/draft/6363923/
-* https://www.udemy.com/course/draft/3498426/
-
-## AI - DeepSeek
-https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
-https://www.udemy.com/course/deepseek-zero-to-hero/
-https://www.udemy.com/course/ai-made-easy-a-complete-deepseek-zero-to-hero-masterclass/
-https://www.udemy.com/course/deepseek-ai-deepseek-generative-ai-complete-essentials/
-https://www.udemy.com/course/from-zero-to-ai-how-to-master-deepseek-ai-as-a-beginner/
-https://www.udemy.com/course/deepseek-mastery/
-https://www.udemy.com/course/deepseek-course-with-prompt-engineering-free-course/
-https://www.udemy.com/course/deepseek-r1-real-world-projects/
-https://www.udemy.com/course/mastering-deepseek-unlock-the-power-of-ai-powered-search/
-https://www.udemy.com/course/deepseek-ai-for-passive-income-make-money-online-with-ai/
-https://www.udemy.com/course/deepseek/
-https://www.udemy.com/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/
-https://www.udemy.com/course/deepseek-business/
-https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
-
-## AI - Edge 
-* Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
-* Build On-Device AI - https://www.udemy.com/course/build-on-device-ai/ (In progress 05/23/2025 - ★★★☆☆ - Starts out nice and easy explaining how to use Qualcomm AI hub to build AI on edge devices. Suddenly jumps into obscure code without any explanation. Need to revisit later)
-
-## AI - Ethics
-* https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai (Completed 05/10/2025 ★☆☆☆☆ - Gotta hate all these LinkedIn learning robotic sounding slideshows read out by suited-up men on big budgets and tight schedules)
-
-## AI - GenAI
-* Generative AI for Everyone by Andrew Ng - https://www.coursera.org/learn/generative-ai-for-everyone
-* CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
-* What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
-
-## AI - LLMs
-* AI Engineering Course by Gaurav Sen - https://interviewready.io/learn/ai-engineering (Started 06/04/2025)
-* Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
-* OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
-* https://www.udemy.com/course/learn-langchain-go-from-zero-to-hero-build-ai-apps/
-* https://www.udemy.com/course/talk-to-your-data-strategic-insights-with-llms/
-* https://www.udemy.com/course/build-a-custom-ai-tiny-llm-from-scratch-using-pytorch/
-* https://www.udemy.com/course/large-language-models-llms-fundamentals-g/
-* https://www.udemy.com/course/draft/6568023/
-* https://www.udemy.com/course/mathematics-of-llms-explained-in-everyday-language/
-* https://www.udemy.com/course/llm-engineer/
-* https://www.udemy.com/course/ai-agents-bootcamp-build-with-langchain-rag-langflow-gpt/
-* https://www.udemy.com/course/artificial-intelligence-certificated/
-* https://www.udemy.com/course/ai-foundations-for-decision-makers-from-zero-to-llms/
-* https://www.udemy.com/course/mastering-ai-with-transformers-and-llms/
-* https://www.udemy.com/course/draft/6333581/
-* https://www.udemy.com/course/llm-genai-interview-questions-and-answers-basic-to-expert/
-* https://www.udemy.com/course/how-chatgpt-and-llms-really-work-for-non-techies/
-* https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models
-* https://www.udemy.com/course/a-gentle-introduction-to-llmops/
-* https://www.udemy.com/course/multi-agent-llm-applications/
-* https://www.udemy.com/course/building-intelligent-agents-with-llms/
-* https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/
-* https://www.udemy.com/course/mastering-generative-ai-with-llms-a-hugging-face-guide/
-  
-## AI - Microsoft Copilot
-* LinkedIn Learning - Microsoft Copilot Studio
-
-## AI - NotebookLM
-https://www.udemy.com/course/mastering-google-notebooklm-an-ai-powered-research-tool/
-https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/
-https://www.udemy.com/course/the-ultimate-guide-to-google-notebooklm-ai-powered-notes/
-https://www.udemy.com/course/google-notebooklm-sta/
-
-## AI - Art - Music
-* AI Music Creation - https://www.udemy.com/course/draft/1724702/
-* Compose Music with AI - https://www.udemy.com/course/draft/6031906/
-* Create stories, music and art with AI - https://www.udemy.com/course/creating-interesting-comics-using-artificial-intelligence/
-* https://www.udemy.com/course/draft/2266378/
-  
 ## AI - Art - Image Generation & Editing
 * AI Image & Video Editing for Beginners - https://www.udemy.com/course/ai-image-and-video-editing-for-complete-beginners/
 * AI Image & Video Generation for Beginners - https://www.udemy.com/course/ai-for-absolute-beginners-productivity-machine/
@@ -184,6 +49,12 @@ https://www.udemy.com/course/google-notebooklm-sta/
 * Full AI course - https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/
 * Dall-E Artistry - https://www.udemy.com/course/mastering-dalle-artistry-ai-creative-revolution/
 * Dall-E, Gemini - https://www.udemy.com/course/all-in-one-ai-course-chatgpt-perplexity-claude-gemini/
+
+## AI - Art - Music
+* AI Music Creation - https://www.udemy.com/course/draft/1724702/
+* Compose Music with AI - https://www.udemy.com/course/draft/6031906/
+* Create stories, music and art with AI - https://www.udemy.com/course/creating-interesting-comics-using-artificial-intelligence/
+* https://www.udemy.com/course/draft/2266378/
 
 ## AI Art - Video
 https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/
@@ -213,7 +84,137 @@ https://www.udemy.com/course/master-ai-video-creation-for-free-unlock-your-creat
 https://www.udemy.com/course/runwayml-ai-video-editor-become-master-in-video-editing/
 https://www.udemy.com/course/ai-videos-side-hustle-create-faceless-videos-earn-online/
 
+## AI - Automation
+* Foundations of Intelligent Automation - https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence (Completed 05/10/2025 ★★☆☆☆ - OCR, RPA, Low/No code platforms. Just a lot of talking)
+* n8n
+* https://www.udemy.com/course/mastering-ai-workflow-automation-with-n8n-from-zero-to-pro/
+* https://www.udemy.com/course/build-ai-agents-with-n8n-free-hands-on-training/
+* https://www.udemy.com/course/master-n8n-ai-agents-build-sell-ai-agents-and-automations/
+* https://www.udemy.com/course/n8n-automation-mastery-build-custom-n8n-automation-workflows/
 
+## AI - Building Applications
+* Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
+* AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
+
+
+## AI - Claude
+https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/
+https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
+
+## AI - Computer Vision
+* https://www.udemy.com/course/mastering-opencv-a-practical-guide-to-computer-vision/
+* https://www.udemy.com/course/learn-computer-vision-python-image-automation-examples/
+* https://www.udemy.com/course/draft/5597256/
+* https://www.udemy.com/course/computer-vision-fundamentals/
+* https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/
+* https://www.udemy.com/course/computer-vision-with-python/
+* https://www.udemy.com/course/learn-computer-vision-for-beginners-part-2/
+* https://www.udemy.com/course/draft/6363923/
+* https://www.udemy.com/course/draft/3498426/
+
+## AI - Copilot
+https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/
+https://www.udemy.com/course/copilot-for-windows-365-lead-your-industry-with-ai-power/
+
+
+## AI - DeepSeek
+https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
+https://www.udemy.com/course/deepseek-zero-to-hero/
+https://www.udemy.com/course/ai-made-easy-a-complete-deepseek-zero-to-hero-masterclass/
+https://www.udemy.com/course/deepseek-ai-deepseek-generative-ai-complete-essentials/
+https://www.udemy.com/course/from-zero-to-ai-how-to-master-deepseek-ai-as-a-beginner/
+https://www.udemy.com/course/deepseek-mastery/
+https://www.udemy.com/course/deepseek-course-with-prompt-engineering-free-course/
+https://www.udemy.com/course/deepseek-r1-real-world-projects/
+https://www.udemy.com/course/mastering-deepseek-unlock-the-power-of-ai-powered-search/
+https://www.udemy.com/course/deepseek-ai-for-passive-income-make-money-online-with-ai/
+https://www.udemy.com/course/deepseek/
+https://www.udemy.com/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/
+https://www.udemy.com/course/deepseek-business/
+https://www.udemy.com/course/deepseek-ai-masterclassbuild-automate-monetize-like-a-pro/
+
+## AI - Edge 
+* Edge AI for IOT Developers Nanodegree on Udacity - https://www.udacity.com/blog/2020/04/enrollment-starts-for-intel-edge-ai-for-iot-developers.html
+* Build On-Device AI - https://www.udemy.com/course/build-on-device-ai/ (In progress 05/23/2025 - ★★★☆☆ - Starts out nice and easy explaining how to use Qualcomm AI hub to build AI on edge devices. Suddenly jumps into obscure code without any explanation. Need to revisit later)
+
+## AI - Ethics
+* https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai (Completed 05/10/2025 ★☆☆☆☆ - Gotta hate all these LinkedIn learning robotic sounding slideshows read out by suited-up men on big budgets and tight schedules)
+
+## AI - GenAI
+* Generative AI for Everyone by Andrew Ng - https://www.coursera.org/learn/generative-ai-for-everyone
+* CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
+* What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
+
+## AI - Llama
+* https://www.udemy.com/course/open-source-llms/
+* https://www.udemy.com/course/getting-started-with-gen-ai-langchain-llama3-ollama/
+* https://www.udemy.com/course/draft/5982012/
+* https://www.udemy.com/course/llama-4-ai-mastering-prompt-engineering/
+
+## AI - LLMs
+* AI Engineering Course by Gaurav Sen - https://interviewready.io/learn/ai-engineering (Started 06/04/2025)
+* Become an LLM Engineer by Sebastian Schlaak (https://www.udemy.com/course/become-an-llm-engineer/)
+* OpenSourced LLMs by Sebastian Schlaak (https://www.udemy.com/course/open-source-llms/)
+* https://www.udemy.com/course/learn-langchain-go-from-zero-to-hero-build-ai-apps/
+* https://www.udemy.com/course/talk-to-your-data-strategic-insights-with-llms/
+* https://www.udemy.com/course/build-a-custom-ai-tiny-llm-from-scratch-using-pytorch/
+* https://www.udemy.com/course/large-language-models-llms-fundamentals-g/
+* https://www.udemy.com/course/draft/6568023/
+* https://www.udemy.com/course/mathematics-of-llms-explained-in-everyday-language/
+* https://www.udemy.com/course/llm-engineer/
+* https://www.udemy.com/course/ai-agents-bootcamp-build-with-langchain-rag-langflow-gpt/
+* https://www.udemy.com/course/artificial-intelligence-certificated/
+* https://www.udemy.com/course/ai-foundations-for-decision-makers-from-zero-to-llms/
+* https://www.udemy.com/course/mastering-ai-with-transformers-and-llms/
+* https://www.udemy.com/course/draft/6333581/
+* https://www.udemy.com/course/llm-genai-interview-questions-and-answers-basic-to-expert/
+* https://www.udemy.com/course/how-chatgpt-and-llms-really-work-for-non-techies/
+* https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models
+* https://www.udemy.com/course/a-gentle-introduction-to-llmops/
+* https://www.udemy.com/course/multi-agent-llm-applications/
+* https://www.udemy.com/course/building-intelligent-agents-with-llms/
+* https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/
+* https://www.udemy.com/course/mastering-generative-ai-with-llms-a-hugging-face-guide/
+  
+## AI - Microsoft Copilot
+* LinkedIn Learning - Microsoft Copilot Studio
+
+## AI - No Code
+* https://www.udemy.com/course/ai-saas-apps/
+* https://www.udemy.com/course/build-your-ai-saas-software-with-no-code-no-coding-needed/
+* https://www.udemy.com/course/build-ai-automation-agency-chatbots-genai-with-vectorshift/
+* https://www.udemy.com/course/build-professional-trading-bots-the-no-code-masterclass/
+* https://www.udemy.com/course/mastering-ai-agents-with-lyzr-agent-studio/
+* https://www.udemy.com/course/develop-ai-automations-course/
+* https://www.udemy.com/course/ai-chatbots/
+* https://www.udemy.com/course/no-code-ai-chatbot-mastery-build-your-own-in-one-hour/
+* https://www.udemy.com/course/no-code-machine-learning-with-qlik-automl/
+* https://www.udemy.com/course/draft/4584758/
+* https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/
+* https://www.udemy.com/course/draft/4204976/
+* https://www.udemy.com/course/no-code-machine-learning/
+* https://www.udemy.com/course/no-low-code-marketing-automation/
+* https://www.udemy.com/course/the-complete-course-for-ai-agent-with-no-code-tool-2025/
+* https://www.udemy.com/course/master-ai-voice-agents-automate-calls-with-ai-and-no-code/
+* https://www.udemy.com/course/partyrock/
+* https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/
+* https://www.udemy.com/course/ai-automation-course/
+* https://www.udemy.com/course/build-ai-call-assistants-ai-automation-agency-with-no-code/
+
+## AI - NotebookLM
+https://www.udemy.com/course/mastering-google-notebooklm-an-ai-powered-research-tool/
+https://www.udemy.com/course/notebooklm-mastery-organize-analyze-and-optimize-with-ai/
+https://www.udemy.com/course/the-ultimate-guide-to-google-notebooklm-ai-powered-notes/
+https://www.udemy.com/course/google-notebooklm-sta/
+
+## AI - Ollama
+* https://www.udemy.com/course/master-deepseek-llama-other-llms-with-openwebui-ollama/
+* https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
+* https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/
+* https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/
+* https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/
+* https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
+  
 ## AI - Prompt Engineering
 * Master Prompt Engineering - https://www.udemy.com/course/master-prompt-engineering-for-generative-ai-course/ (Completed 04/21/2025) (★☆☆☆☆ - Very basic. Poor audio)
 
@@ -246,6 +247,11 @@ https://www.udemy.com/course/ai-videos-side-hustle-create-faceless-videos-earn-o
 * AI ML Startup Case Studies (Sramana Mitra) - https://www.udemy.com/course/machinelearningaistartupcasestudy/
 * How to Build AI/ML Startups (Sramana Mitra) - https://www.udemy.com/course/artificialintelligencestartups/
 * 
+  
+## AI - Vibe
+https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
+https://www.udemy.com/course/cursor-ai-build-apps/
+https://www.udemy.com/course/aivibecoding/
 
 # Architecture
 * First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
