@@ -100,6 +100,40 @@ A compendium of tech courses and tech reading that I am doing.
 * Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
 * AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
 
+## AI - ChatGPT
+* https://www.udemy.com/course/masterclass-on-self-guided-learning-with-ai-and-chatgpt/
+* https://www.udemy.com/course/practical-introduction-to-chatgpt-ai-academy/
+* https://www.udemy.com/course/draft/6255353/
+* https://www.udemy.com/course/master-chatgpt-build-ai-assistants-that-know-your-business/
+* https://www.udemy.com/course/mastering-self-guided-learning-with-chatgpt/
+* https://www.udemy.com/course/mastering-self-learning-with-chatgpt-for-busy-professionals/
+* https://www.udemy.com/course/gen-ai-fun-with-chatgpt-and-suno/
+* https://www.udemy.com/course/chatgpt-mastery-from-creative-writing-to-coding-solutions/
+* https://www.udemy.com/course/mastering-personal-branding-with-chatgpt/
+* https://www.udemy.com/course/foundation-of-generative-ai/
+* https://www.udemy.com/course/chatgpt-and-generative-ai-in-business-management-marketing/
+* https://www.udemy.com/course/ai-in-science-mastery-chatgpts-transformative-role/
+* https://www.udemy.com/course/chatgpt-for-programmer/
+* https://www.udemy.com/course/draft/5772452/
+* https://www.udemy.com/course/understanding-and-documenting-problem-statements-chatgpt/
+* https://www.udemy.com/course/chatgpt-react-introduction-to-the-ai-chatbot-revolution/
+* https://www.udemy.com/course/upgrade-your-social-media-presence-with-chat-gpt/
+* https://www.udemy.com/course/ai-productivity/
+* https://www.udemy.com/course/unleashing-the-power-of-chatgpt-with-1000-prompts/
+* https://www.udemy.com/course/the-chatgpt-plugin-playbook-how-to-use-the-power-of-plugins/
+* https://www.udemy.com/course/chatgpt-coding-masterclass-learn-to-code-with-chatgpt/
+* https://www.udemy.com/course/mastering-project-writing-with-chatgpt-boost-your-grant-app/
+* https://www.udemy.com/course/ai-for-content-creators-go-beyond-chatgpt/
+* https://www.udemy.com/course/chatgpt-for-excel-master-the-art-of-excel-with-chatgpt/
+* https://www.udemy.com/course/the-ai-marketing-playbook-market-using-jasper-chatgpt/
+* https://www.udemy.com/course/the-ultimate-chatgpt-guide/
+* https://www.udemy.com/course/revolutionize-your-business-with-chatgpt-zapier/
+* https://www.udemy.com/course/draft/5201812/
+* https://www.udemy.com/course/chatgpt-masterclass-start-using-chatgpt/
+* 
+
+## AI - Tools
+https://www.udemy.com/course/supercharging-your-business-with-ai-tools/
 
 ## AI - Claude
 https://www.udemy.com/course/claude-pro-mastery-ai-for-business-marketing-automation/
