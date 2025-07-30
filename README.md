@@ -645,7 +645,30 @@ https://www.udemy.com/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/
 
 # REST API
 - HTTP Deep Dive - https://www.udemy.com/course/http-deep-dive/ (Completed: 03/23/2025 - ★★★☆☆ - Pretty basic course on HTTP)
-- Secure RESTful APIs (https://amzn.in/d/2TW1DAp) (Completed: 04/14/2025 - ★★★☆☆ - Basic intro to REST API security. Examples in Java for JWT usage)  
+- https://www.udemy.com/course/draft/3461094/
+- Secure RESTful APIs (https://amzn.in/d/2TW1DAp) (Completed: 04/14/2025 - ★★★☆☆ - Basic intro to REST API security. Examples in Java for JWT usage)
+- https://www.udemy.com/course/api-and-web-service-introduction/
+- https://www.udemy.com/course/learn-and-understand-apis-and-restful-apis/
+- https://www.udemy.com/course/rest-api/
+- https://www.udemy.com/course/api-course/
+- https://www.udemy.com/course/learn-open-api-specification-swagger-crash-course/
+- Web services API https://www.udemy.com/course/draft/1645696/
+- https://www.udemy.com/course/beautiful-apis/
+- https://www.udemy.com/course/free-course-on-sap-po-rest-json-and-api-basics/
+
+## REST API - Testing
+https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/
+https://www.udemy.com/course/webservices-testing-restassured-postman-complete-guide-learnit/
+https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/
+https://www.udemy.com/course/absolute-beginner-postman-course/
+https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/
+https://www.udemy.com/course/postman-the-complete-guide/
+https://www.udemy.com/course/build-secure-apis-with-auth0-and-postman/
+https://www.udemy.com/course/api-restassured-httpclient/
+https://www.udemy.com/course/rest-assured-fundamentals/
+https://www.udemy.com/course/learn-rest-api-automation-using-rest-assured/
+https://www.udemy.com/course/api-testing-with-katalon-studio-step-by-step-for-beginners/
+https://www.udemy.com/course/rest-api-rest-api-testing-using-python-for-beginners/
 
 # Security
 * Practical Security Architecture - https://www.udemy.com/course/practical-security-architecture-hands-on/
