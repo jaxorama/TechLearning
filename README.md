@@ -407,10 +407,38 @@ https://www.udemy.com/course/learn-to-use-top-ai-tools-and-start-earning-instant
 # Data Center
 * Data Center IT Infrastructure : The Complete IT Fundamentals - https://www.udemy.com/course/data-center-design-it-infrastructure-it-fundamentals/
 
+# Data Lake
+https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
+
 # Data Science
 * Data Science - 2 Day Workshop - https://www.youtube.com/watch?v=cyd-jtrocT8 | https://www.youtube.com/watch?v=_cBzePmET6Y
 
 # Data Structures & Algorithms
+https://www.udemy.com/course/data-structure-and-algorithm-tutorial/
+https://www.udemy.com/course/dsanimations/
+https://www.udemy.com/course/draft/5956976/
+https://www.udemy.com/course/the-only-algorithms-coding-interview-course-youll-ever-need/
+https://www.udemy.com/course/python-data-structures-algorithms/
+https://www.udemy.com/course/draft/5207270/
+https://www.udemy.com/course/data-structures-an-illustrative-introduction/
+https://www.udemy.com/course/data-structures-and-algorithms-dsa/
+https://www.udemy.com/course/datastructures-and-algorithmszero-to-hero/
+https://www.udemy.com/course/data-structures-with-python/
+https://www.udemy.com/course/data-structures-and-algorithms-in-the-c-programming-language/
+https://www.udemy.com/course/draft/2590844/
+https://www.udemy.com/course/draft/2448960/
+https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/
+https://www.udemy.com/course/python-data-structures-a-to-z/
+https://www.udemy.com/course/algorithms-bootcamp-in-c/
+https://www.udemy.com/course/draft/1727072/
+https://www.udemy.com/course/draft/1701490/
+https://www.udemy.com/course/algorithms-and-data-structures-in-c-coding-interview/
+https://www.udemy.com/course/draft/1355282/
+https://www.udemy.com/course/introduction-to-data-structures/
+https://www.udemy.com/course/data-structures-and-algorithms-from-0-to-hero/
+https://www.udemy.com/course/stacks-queues-binary-trees-heaps/
+https://www.udemy.com/course/from-0-to-1-data-structures/
+https://www.udemy.com/course/data-structures-in-c/
 
 # DevOps
 * DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp 
@@ -474,6 +502,7 @@ https://www.udemy.com/course/draft/894286/
 https://www.udemy.com/course/draft/885599/
 https://www.udemy.com/course/draft/885595/
 https://www.udemy.com/course/draft/894308/
+https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/
 
 ## Programming - C++
 https://www.udemy.com/course/free-learn-c-tutorial-beginners/
@@ -518,8 +547,11 @@ https://www.udemy.com/course/draft/1020950/
 
 ## Programming - HTML
 ## Programming - Javascript
-## Programming - No Code
+## Programming - No Code / Low Code
 https://www.udemy.com/course/no-code-developer/
+https://www.udemy.com/course/master-mendix-low-code-app-development-for-all-levels-part1/
+https://www.udemy.com/course/draft/6294395/
+
 
 ## Programming - Python
 ## Programming - RUST
@@ -527,14 +559,17 @@ https://www.udemy.com/course/mastering-rust-programming-building-safe-and-effici
 https://www.udemy.com/course/draft/1662608/
 https://www.udemy.com/course/rust-programming-bootcamp/
 
-## Programming - JSON & YAML
+## Programming - JSON & XML & YAML
 https://www.udemy.com/course/draft/6257521/
 https://www.udemy.com/course/introduction-to-yaml-a-hands-on-course-2022/
 https://www.udemy.com/course/ultimate-yaml-json-jsonpath-tutorial/
 https://www.udemy.com/course/draft/2560878/
 https://www.udemy.com/course/draft/1522794/
 https://www.udemy.com/course/master-in-json/
+https://www.udemy.com/course/xml-novice-to-ninja/
 
+## Programming - PERL
+https://www.udemy.com/course/draft/1708096/
 
 # Product Management
 
