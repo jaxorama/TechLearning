@@ -16,6 +16,7 @@ A compendium of tech courses and tech reading that I am doing.
 * AI & ML Made Easy - https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/ (Completed 03/20/2025 ★★★★★ - Introduction to key concepts only. No hands-on)
 * AI for Professionals - https://www.udemy.com/course/skilltechclub-ai-for-professionals/ (Completed 04/21/2025 ★★★☆☆ - Quick introduction to AI. Very basic though)
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
+* https://www.udemy.com/course/learn-ai-in-1-hour-3d-animated-course-for-beginners/
 
 ## AI - Agents
 * Agentic AI Mastery - https://www.udemy.com/course/agentic-ai-mastery/
@@ -63,6 +64,8 @@ A compendium of tech courses and tech reading that I am doing.
 * Compose Music with AI - https://www.udemy.com/course/draft/6031906/
 * Create stories, music and art with AI - https://www.udemy.com/course/creating-interesting-comics-using-artificial-intelligence/
 * https://www.udemy.com/course/draft/2266378/
+* https://www.udemy.com/course/ai-audio-editing-masterclass-adobe-podcast-for-pro-audio/
+* https://www.udemy.com/course/complete-suno-ai-course-create-and-monetize-music/
 
 ## AI Art - Video
 * https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/
@@ -117,6 +120,7 @@ A compendium of tech courses and tech reading that I am doing.
 ## AI - Building Applications
 * Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
 * AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
+* https://www.udemy.com/course-dashboard-redirect/?course_id=6743137
 
 ## AI - ChatGPT
 * https://www.udemy.com/course/masterclass-on-self-guided-learning-with-ai-and-chatgpt/
@@ -242,6 +246,7 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 * Generative AI for Everyone by Andrew Ng - https://www.coursera.org/learn/generative-ai-for-everyone
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
 * What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
+* https://www.udemy.com/course/introduction-to-generative-ai-for-high-schoolers/
 
 ## AI - Governance
 * https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/
@@ -288,6 +293,7 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/building-intelligent-agents-with-llms/
 * https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/
 * https://www.udemy.com/course/mastering-generative-ai-with-llms-a-hugging-face-guide/
+* https://www.udemy.com/course/introduction-to-basics-llm-models/
 
 ## AI - Looker
 * https://www.udemy.com/course/lookml-google-looker-for-developers/
@@ -342,6 +348,9 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/the-ultimate-guide-to-google-notebooklm-ai-powered-notes/
 * https://www.udemy.com/course/google-notebooklm-sta/
 
+## AI - NVIDIA
+* https://www.udemy.com/course/certified-nvidia-ai-expert/
+* 
 ## AI - Ollama
 * https://www.udemy.com/course/master-deepseek-llama-other-llms-with-openwebui-ollama/
 * https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
@@ -434,6 +443,8 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 
 # Cloud Computing - Docker
 
+# Computer Architecture
+* https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/
 
 # Databases
 
@@ -647,6 +658,7 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/operatingsystems/
 * https://www.udemy.com/course/operating-systems-from-scratch-part1/
 * https://www.udemy.com/course/draft/4470226/
+* https://www.udemy.com/course/mastering-real-time-operating-systems-essentials/
 
 # Programming
 ## Programming - Assembly X86
@@ -659,7 +671,7 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/x86-asm-foundations/
 * https://www.udemy.com/course/assembly/
 * https://www.udemy.com/course/write-the-first-assembly-program-and-run-it-on-emulator/
-
+* https://www.udemy.com/course/mastering-8086-architecture-and-assembly-language-programs/
 
 ## Programming - C
 * https://www.udemy.com/course/draft/1289592/
@@ -747,6 +759,8 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 
 
 ## Programming - Python
+* https://www.udemy.com/course-dashboard-redirect/?course_id=5074532
+* 
 ## Programming - RUST
 * https://www.udemy.com/course/mastering-rust-programming-building-safe-and-efficient-software/
 * https://www.udemy.com/course/draft/1662608/
@@ -829,6 +843,8 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/draft/1788470/
 * https://www.udemy.com/course/cryptography-learn-public-key-infrastructure-or-pki-from-scratch/
 * https://www.udemy.com/course/cryptography/
+* https://www.udemy.com/course/cryptography-and-system-security/
+* https://www.udemy.com/course/stride-threat-modeling-step-by-step-n/
 
 ## Security - SSL/TLS
 * https://www.udemy.com/course/ssl-complete-guide/
