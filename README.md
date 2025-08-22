@@ -17,6 +17,7 @@ A compendium of tech courses and tech reading that I am doing.
 * AI for Professionals - https://www.udemy.com/course/skilltechclub-ai-for-professionals/ (Completed 04/21/2025 ★★★☆☆ - Quick introduction to AI. Very basic though)
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 * https://www.udemy.com/course/learn-ai-in-1-hour-3d-animated-course-for-beginners/
+* https://www.udemy.com/course/inside-micro1-how-human-expertise-powers-ai/
 
 ## AI - Agents
 * Agentic AI Mastery - https://www.udemy.com/course/agentic-ai-mastery/
@@ -35,6 +36,9 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/mastering-agentic-design-patterns/
 * https://www.udemy.com/course/agentic-design-patterns/
 * https://www.udemy.com/course/build-intelligent-agents-with-adks/
+* https://www.udemy.com/course/ai-agents-for-cybersecurity-fundamental-basics/
+* https://www.udemy.com/course/ai-agents-no-code-low-code-build-launch-sell-with-no-code-make-n8n/
+* https://www.udemy.com/course/automate-workflows-with-ease-using-n8n-no-code-no-hassle/
 
 ## AI - Art - Image Generation & Editing
 * AI Image & Video Editing for Beginners - https://www.udemy.com/course/ai-image-and-video-editing-for-complete-beginners/
@@ -112,6 +116,8 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/ai-automation-agency/
 * https://www.udemy.com/course/draft/4367512/
 * https://www.udemy.com/course/draft/3708242/
+* https://www.udemy.com/course/n8n-ai-agent-creation-guide/
+* https://www.udemy.com/course/automate-workflows-with-ease-using-n8n-no-code-no-hassle/
 * 
 ## AI - Bard
 * https://www.udemy.com/course/google-bard-generative-ai-masterclass-certification-course/
@@ -124,6 +130,7 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course-dashboard-redirect/?course_id=6743137
 * https://www.udemy.com/course/ai-powered-algorithmic-trading-build-using-lstm-model/
 * https://www.udemy.com/course/automated-wealth-with-ai-building-your-revenue-engine/
+* https://www.udemy.com/course/ai-for-fintech-use-chatgpt-and-genai-in-fintech/
 
 ## AI - ChatGPT
 * https://www.udemy.com/course/masterclass-on-self-guided-learning-with-ai-and-chatgpt/
@@ -244,6 +251,8 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 * https://www.udemy.com/course/draft/5225890/
 * https://www.udemy.com/course/ai-marketing-chatgpt-gemini/
 * https://www.udemy.com/course/gemini-ai-chatbot/
+* https://www.udemy.com/course/google-ai-studio/
+* 
 
 ## AI - GenAI
 * Generative AI for Everyone by Andrew Ng - https://www.coursera.org/learn/generative-ai-for-everyone
@@ -251,6 +260,7 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 * What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
 * https://www.udemy.com/course/introduction-to-generative-ai-for-high-schoolers/
 * https://www.udemy.com/course/mastering-deepseek-r1-the-ultimate-guide-for-beginners/
+* https://www.udemy.com/course/ai-productivity-tools/
 
 ## AI - Governance
 * https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/
@@ -499,7 +509,8 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * https://www.udemy.com/course/data-structures-in-c/
 
 # DevOps
-* DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp 
+* DevOps with Nana - https://www.techworld-with-nana.com/devops-bootcamp
+* https://www.udemy.com/course/devops-for-beginners-github-docker-cicd-from-scratch/
 
 # Embedded Systems
 - https://www.udemy.com/course/embedded-electronics-bootcamp-from-bit-to-deep-learning/
@@ -512,6 +523,7 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * 
 ## Embedded - Arduino
 * https://www.udemy.com/course/arduino-based-text-to-speech-tts-converter/
+* https://www.udemy.com/course/iot-design-with-arduino111/
 * 
 ## Embedded - ARM
 * https://www.udemy.com/course/arm-cortex-m-building-your-own-autonomous-robot-from-scratch/
@@ -623,6 +635,10 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 - https://www.udemy.com/course/draft/1928070/
 - https://www.udemy.com/course/draft/1859730/
 
+# Interviews
+* https://www.udemy.com/course/skillupwithsachin-tech-interview/
+* https://www.udemy.com/course/the-faang-coding-challenge-vault/
+* 
 # Linux
 ## Linux System Programming
 * Linux Inter Process Communication (IPC) from Scratch in C - https://www.udemy.com/course/linuxipc/ (★★★★★ - The best course there is for learning IPC)
