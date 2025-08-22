@@ -18,6 +18,10 @@ A compendium of tech courses and tech reading that I am doing.
 * AI Engineering Masterclass (Udemy) by Vivian Aranha - https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero
 * https://www.udemy.com/course/learn-ai-in-1-hour-3d-animated-course-for-beginners/
 * https://www.udemy.com/course/inside-micro1-how-human-expertise-powers-ai/
+* https://www.udemy.com/course/ai-fundamentals/
+* https://www.udemy.com/course/draft/6766173/
+* https://www.udemy.com/course/ai-fluency-for-non-techies-small-businesses-solopreneurs/
+* https://www.udemy.com/course/ai-engineer-explorer-certificate-course/
 
 ## AI - Agents
 * Agentic AI Mastery - https://www.udemy.com/course/agentic-ai-mastery/
@@ -39,6 +43,7 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/ai-agents-for-cybersecurity-fundamental-basics/
 * https://www.udemy.com/course/ai-agents-no-code-low-code-build-launch-sell-with-no-code-make-n8n/
 * https://www.udemy.com/course/automate-workflows-with-ease-using-n8n-no-code-no-hassle/
+* https://www.udemy.com/course/master-agentic-ai/
 
 ## AI - Art - Image Generation & Editing
 * AI Image & Video Editing for Beginners - https://www.udemy.com/course/ai-image-and-video-editing-for-complete-beginners/
@@ -63,6 +68,8 @@ A compendium of tech courses and tech reading that I am doing.
 * Full AI course - https://www.udemy.com/course/chatgpt-advanced-course-learn-chatgpt-gemini-more/
 * Dall-E Artistry - https://www.udemy.com/course/mastering-dalle-artistry-ai-creative-revolution/
 * Dall-E, Gemini - https://www.udemy.com/course/all-in-one-ai-course-chatgpt-perplexity-claude-gemini/
+* https://www.udemy.com/course/ai-for-content-creation-images-video-social-media/
+* https://www.udemy.com/course/hyper-real-ai-influencers-with-comfyui-flux-1-click-setup/
 
 ## AI - Art - Music
 * AI Music Creation - https://www.udemy.com/course/draft/1724702/
@@ -71,6 +78,7 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/draft/2266378/
 * https://www.udemy.com/course/ai-audio-editing-masterclass-adobe-podcast-for-pro-audio/
 * https://www.udemy.com/course/complete-suno-ai-course-create-and-monetize-music/
+* https://www.udemy.com/course/ai-podcast-generator-with-fastapi-openai-elevenlabs/
 
 ## AI Art - Video
 * https://www.udemy.com/course/kling-ai-guide-how-to-make-videos-using-generative-ai/
@@ -207,6 +215,7 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 * https://www.udemy.com/course/learn-computer-vision-for-beginners-part-2/
 * https://www.udemy.com/course/draft/6363923/
 * https://www.udemy.com/course/draft/3498426/
+* https://www.udemy.com/course/opencv-beginner-to-advanced/
 
 ## AI - Copilot
 * https://www.udemy.com/course/github-copilot-for-beginners-ai-coding-crash-course/
@@ -216,6 +225,7 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 * https://www.udemy.com/course/github-copilot-ai-powered-code-generation/
 * https://www.udemy.com/course/become-an-ai-powered-engineer-chatgpt-github-copilot/
 * https://www.udemy.com/course/data-analysis-and-data-visualization-with-microsoft-copilot/
+* https://www.udemy.com/course/excel-365/
 
 
 ## AI - DeepSeek
@@ -308,6 +318,8 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/
 * https://www.udemy.com/course/mastering-generative-ai-with-llms-a-hugging-face-guide/
 * https://www.udemy.com/course/introduction-to-basics-llm-models/
+* https://www.udemy.com/course/introduction-to-generative-ai-and-llms/
+* https://www.udemy.com/course/mastering-vector-databases-embedding-models-in-2025/
 
 ## AI - Looker
 * https://www.udemy.com/course/lookml-google-looker-for-developers/
@@ -617,6 +629,8 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/immunity-debugger-yaksas-csc-lab-essentials/
 * https://www.udemy.com/course/reverse-engineering-and-exploit-development/
 
+## Ethical Hacking - Tools
+* https://www.udemy.com/course/ethicalhackingforbeg/
 
 # Game Programming
 
@@ -634,6 +648,7 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 - https://www.udemy.com/course/draft/1949214/
 - https://www.udemy.com/course/draft/1928070/
 - https://www.udemy.com/course/draft/1859730/
+- https://www.udemy.com/course/cybersecurity-for-iot-internet-of-things/
 
 # Interviews
 * https://www.udemy.com/course/skillupwithsachin-tech-interview/
@@ -740,6 +755,7 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/draft/885595/
 * https://www.udemy.com/course/draft/894308/
 * https://www.udemy.com/course/the-complete-c-programming-course-for-basic-to-expert/
+* https://www.udemy.com/course/master-c-language-c-programming-language-for-beginners/
 
 ## Programming - C++
 * https://www.udemy.com/course/free-learn-c-tutorial-beginners/
@@ -774,6 +790,8 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/
 
 ## Programming - CSS
+* https://www.udemy.com/course/bootstrap-masterclass-from-beginner-to-pro/
+* 
 ## Programming - Golang
 * https://www.udemy.com/course/draft/6279079/
 * https://www.udemy.com/course/oauth-authentication/
@@ -785,6 +803,10 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 
 ## Programming - HTML
 ## Programming - Javascript
+* https://www.udemy.com/course/code-play-javascript-game-projects/
+* https://www.udemy.com/course/angular-crash-course-learn-angular-at-jet-speed/
+
+
 ## Programming - No Code / Low Code
 * https://www.udemy.com/course/no-code-developer/
 * https://www.udemy.com/course/master-mendix-low-code-app-development-for-all-levels-part1/
