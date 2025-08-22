@@ -34,6 +34,7 @@ A compendium of tech courses and tech reading that I am doing.
 * https://www.udemy.com/course/building-effective-agentic-systems-with-generative-ai/
 * https://www.udemy.com/course/mastering-agentic-design-patterns/
 * https://www.udemy.com/course/agentic-design-patterns/
+* https://www.udemy.com/course/build-intelligent-agents-with-adks/
 
 ## AI - Art - Image Generation & Editing
 * AI Image & Video Editing for Beginners - https://www.udemy.com/course/ai-image-and-video-editing-for-complete-beginners/
@@ -121,6 +122,8 @@ A compendium of tech courses and tech reading that I am doing.
 * Build Local LLM applications using Python and Ollama - https://www.udemy.com/course/build-local-llm-applications-using-python-and-ollama/
 * AI development with Qwen Ollama - https://www.udemy.com/course/ai-development-with-qwen-ollama-build-ai-apps-locally/
 * https://www.udemy.com/course-dashboard-redirect/?course_id=6743137
+* https://www.udemy.com/course/ai-powered-algorithmic-trading-build-using-lstm-model/
+* https://www.udemy.com/course/automated-wealth-with-ai-building-your-revenue-engine/
 
 ## AI - ChatGPT
 * https://www.udemy.com/course/masterclass-on-self-guided-learning-with-ai-and-chatgpt/
@@ -247,6 +250,7 @@ https://www.udemy.com/course/claude-pro-build-integrate-optimize-ai-solutions/
 * CEO Playbook : Generative AI https://www.udemy.com/course/ceo-playbook-generative-ai-/ (Completed 03/06/2025 ★★★★☆ - Useful pointers on how GenAI can be used by a CEO in business)
 * What is Generative AI - https://www.linkedin.com/learning/what-is-generative-ai (Completed 05/10/2025 ★★☆☆☆ - Too basic)
 * https://www.udemy.com/course/introduction-to-generative-ai-for-high-schoolers/
+* https://www.udemy.com/course/mastering-deepseek-r1-the-ultimate-guide-for-beginners/
 
 ## AI - Governance
 * https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/
@@ -350,6 +354,8 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 
 ## AI - NVIDIA
 * https://www.udemy.com/course/certified-nvidia-ai-expert/
+* https://www.udemy.com/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations/
+* https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/
 * 
 ## AI - Ollama
 * https://www.udemy.com/course/master-deepseek-llama-other-llms-with-openwebui-ollama/
@@ -383,6 +389,7 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/draft/6322671/
 * https://www.udemy.com/course/cybersecurity-with-ai-genai/
 * https://www.udemy.com/course/cybersecurity-defense-with-genai/
+* https://www.udemy.com/course/linux-security-network-hardening-practical-defense/
 
   
 ## AI - Startups
@@ -406,6 +413,10 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/vibe-coding-for-non-coders-zero-to-hero/
 * https://www.udemy.com/course/cursor-ai-build-apps/
 * https://www.udemy.com/course/aivibecoding/
+* https://www.udemy.com/course/how-to-create-your-apps-frontend-with-cursor-ai/
+* https://www.udemy.com/course/cursor-ai-for-beginners-ai-coding-crash-course/
+* https://www.udemy.com/course/how-to-set-up-an-app-for-development-with-cursor-ai/
+* https://www.udemy.com/course/how-to-create-your-apps-backend-with-cursor-ai/
 
 # Architecture
 * First Steps from Programmer to Architect https://www.udemy.com/course/draft/1979902/ (Completed 03/26/2025 ★★★☆☆ - Quick introductory course giving a high level overview)
@@ -416,6 +427,7 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 # Career Building
 * Build a Career in Emerging Technologies - https://www.udemy.com/course/emerging-technologies-career-guide/
 * Build a Career in AI, ML, Data Science - https://www.udemy.com/course/ai-ml-data-science-career-guide/
+* https://www.udemy.com/course/kickstart-your-career-in-artificial-intelligence/
 
 # Cloud Computing - Fundas
 * Cloud Computing for Beginners - https://www.udemy.com/course/cloud-computing-for-beginners-course/
@@ -439,12 +451,14 @@ https://www.udemy.com/course/building-generative-ai-web-apps-with-streamlit-lang
 * https://www.udemy.com/course/draft/964656/
 * https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/
 * https://www.udemy.com/course/amazon-web-services-aws-v/
+* https://www.udemy.com/course/azurecloud/
 * 
 
 # Cloud Computing - Docker
 
 # Computer Architecture
 * https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/
+* https://www.udemy.com/course/computer-architecture-from-number-systems-to-parallelism/
 
 # Databases
 
@@ -497,6 +511,8 @@ https://www.udemy.com/course/data-lake-design-architecture-and-implementation/
 * https://www.udemy.com/course/the-8051-microcontroller/
 * 
 ## Embedded - Arduino
+* https://www.udemy.com/course/arduino-based-text-to-speech-tts-converter/
+* 
 ## Embedded - ARM
 * https://www.udemy.com/course/arm-cortex-m-building-your-own-autonomous-robot-from-scratch/
 * https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors/
@@ -567,6 +583,7 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/draft/1928070/
 * https://www.udemy.com/course/raspberry-pi-complete-raspberrypi-bootcamp-python-raspberry-pi/
 * https://www.udemy.com/course/draft/3943618/
+* https://www.udemy.com/course/the-ultimate-node-red-programming-for-electronics-diy/
 
 # Encryption
 * Overview of Cryptography & Encryption for Beginners (Udemy) - https://www.udemy.com/course/overview-of-cryptography-encryption/ (Completed 3/4/2025. Rating ★★★☆☆)
@@ -574,7 +591,10 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 # Ethical Hacking
 - https://onebytelabs.in/account/home/my_courses
 
-# Ethical Hacking - Reversing
+## Ethical Hacking - Network Security
+- https://www.udemy.com/course/hacking-network/
+- 
+## Ethical Hacking - Reversing
 * https://www.udemy.com/course/reverse-engineering-ida/
 * https://www.udemy.com/course/reverse-engineering-ghidra/
 * https://www.udemy.com/course/reverse-engineering-create-crackme/
@@ -606,6 +626,8 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 # Linux
 ## Linux System Programming
 * Linux Inter Process Communication (IPC) from Scratch in C - https://www.udemy.com/course/linuxipc/ (★★★★★ - The best course there is for learning IPC)
+## Linux OS
+* https://www.udemy.com/course/linux-mastery-from-beginner-to-pro-level-guru-for-all-users/
 * 
 # Networking - Fundas
 * https://www.udemy.com/course/network-engineer-taster-courses/
@@ -743,6 +765,7 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 * https://www.udemy.com/course/learn-how-to-code/
 * https://www.udemy.com/course/master-json-fundamentals-unlock-the-power-of-data-exchange/
 * https://www.udemy.com/course/draft/1020950/
+* https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/
 
 ## Programming - HTML
 ## Programming - Javascript
@@ -859,7 +882,8 @@ https://www.udemy.com/course/learn-kicad-printed-circuit-board-design/
 
 # SQL
 * SQL for Newbies - (https://www.udemy.com/course/sql-for-newbies-hands-on-sql-with-industry-best-practices/) (Completed 05/03/2025 - ★★★★★ - Great intro to SQL statements, Aggregates, Joins, CTEs, Efficient pipelines)
-* 
+* https://www.udemy.com/course/learn_sql/
+  
 # System Design
 * Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design
 * Learning Cloud Architecture - Practical Design - https://www.udemy.com/course/design-architecture/
